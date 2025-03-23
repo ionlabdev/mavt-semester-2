@@ -2,7 +2,7 @@
 
 [Beschreibung in Arbeit]
 
-Das Anki-Karteikarten-Deck wurde basierend auf dem HS 24 erstellt. 
+Das Anki-Karteikarten-Deck wurde basierend auf dem FS 25 erstellt. 
 
 Die Meisten Karten basieren auf dem Karteikartenformat "Einfach Erklärt". Dieses funktioniert gleich wie der Standard "Einfach" Karteikartentyp, nur, dass es ein drittes Feld gibt, welches beim Abfragen der Karteikarte nicht Angezeigt wird. Das 3. Feld ("Erklärt") enthält entweder eine ausführlichere Erklärung der Antwort der Karteikarte, die über den Inhalt der Frage hinausgeht oder eine Angabe, aus welcher Vorlesung/ Übungsstunde die Karteikarte stammt( z.B. W5V2 - Woche 5 Vorlesung 2).
 
