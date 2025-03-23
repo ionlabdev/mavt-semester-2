@@ -15,6 +15,7 @@ Die Karteikarten bauen auf dem Karteikarten-Sets von [zmackinga](https://exams.a
 Die Meisten Karten basieren auf dem Karteikartenformat "Einfach Erklärt". Dieses funktioniert gleich wie der Standard "Einfach" Karteikartentyp, nur, dass es ein drittes Feld gibt, welches beim Abfragen der Karteikarte nicht Angezeigt wird. Das 3. Feld ("Erklärt") enthält entweder eine ausführlichere Erklärung der Antwort der Karteikarte, die über den Inhalt der Frage hinausgeht oder eine Angabe, aus welcher Vorlesung/ Übungsstunde die Karteikarte stammt( z.B. W5V2 - Woche 5 Vorlesung 2).
 
 Folgende Tags werden im Deck verwendet, um das Lernen zu vereinfachen:
+
 |tag | Beschreibung |
 |---|---|
 |prioA | Sehr wichtiges Konzept, starken Einfluss auf Prüfungsnote wahrscheinlich (persönliche subjektive Einschätzung) |
@@ -28,4 +29,5 @@ Folgende Tags werden im Deck verwendet, um das Lernen zu vereinfachen:
 |procedure | Karte, welche einen Ablauf, wie z.B. zum Lösen eines spezifischen Aufgabentyps abfragt |
 
 Alle Angaben ohne Gewähr. Bei Fehlern, Unklarheiten oder Verbesserungsvorschlägen kontaktiere mich über GitHub.
+
 Viel Erfolg beim Lernen!
