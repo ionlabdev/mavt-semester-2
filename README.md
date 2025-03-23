@@ -27,5 +27,5 @@ Folgende Tags werden im Deck verwendet, um das Lernen zu vereinfachen:
 |literatur | Karteikarten, die nicht direkt auf Vorlesungsstoff, sondern Literatur basieren |
 |procedure | Karte, welche einen Ablauf, wie z.B. zum Lösen eines spezifischen Aufgabentyps abfragt |
 
-Alle Angaben ohne Gewähr. Bei Fehlern, Unklarheiten oder Verbesserungsvorschlägen kontaktiere mich über murech@student.ethz.ch.
+Alle Angaben ohne Gewähr. Bei Fehlern, Unklarheiten oder Verbesserungsvorschlägen kontaktiere mich über GitHub.
 Viel Erfolg beim Lernen!
