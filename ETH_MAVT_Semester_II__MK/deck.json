@@ -1,0 +1,822 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "852c8a3c-0810-11f0-85fc-8d496211e5e5",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Capture d’écran 2025-02-18 à 10.39.30.png",
+                "Capture d’écran 2025-02-18 à 10.40.04.png",
+                "Capture d’écran 2025-02-18 à 10.41.50.png",
+                "Capture d’écran 2025-02-18 à 10.48.14.png",
+                "Capture d’écran 2025-02-18 à 10.51.29.png",
+                "Capture d’écran 2025-02-18 à 11.04.56.png",
+                "Capture d’écran 2025-02-18 à 11.27.01.png",
+                "Capture d’écran 2025-02-18 à 11.29.27.png",
+                "Capture d’écran 2025-02-25 à 15.43.38.png",
+                "Capture d’écran 2025-02-25 à 15.44.20.png",
+                "Capture d’écran 2025-02-25 à 15.47.21.png",
+                "Capture d’écran 2025-02-25 à 15.53.14.png",
+                "Capture d’écran 2025-02-25 à 16.01.43.png",
+                "Capture d’écran 2025-02-25 à 17.25.59.png",
+                "Capture d’écran 2025-02-25 à 17.27.31.png",
+                "Capture d’écran 2025-02-25 à 17.28.48.png",
+                "Capture d’écran 2025-02-25 à 17.29.14.png",
+                "Capture d’écran 2025-02-25 à 17.30.59.png",
+                "Capture d’écran 2025-02-25 à 17.32.55.png",
+                "Capture d’écran 2025-02-25 à 17.33.59.png",
+                "Capture d’écran 2025-02-25 à 17.34.49.png",
+                "Capture d’écran 2025-02-25 à 17.38.16.png",
+                "Capture d’écran 2025-02-25 à 17.39.03.png",
+                "Capture d’écran 2025-02-25 à 17.39.41.png",
+                "Capture d’écran 2025-02-25 à 17.41.19.png"
+            ],
+            "name": "01. Zahnräder und Getriebe",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann die Drehachse durch ein Getriebe geändert werden?",
+                        "<img src=\"Capture d’écran 2025-02-18 à 10.40.04.png\" width=\"411\">",
+                        "W1V1"
+                    ],
+                    "guid": "pp%d2bZE[A",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Funktion eines Getriebes?",
+                        "Veränderung von:<br><img src=\"Capture d’écran 2025-02-25 à 15.43.38.png\" width=\"357\">",
+                        "W1V1"
+                    ],
+                    "guid": "Om,e5Ws&^&",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann die Drehrichtung durch ein Getriebe geändert werden?",
+                        "<img src=\"Capture d’écran 2025-02-25 à 15.44.20.png\" width=\"447\">",
+                        "W1V1"
+                    ],
+                    "guid": "C^]*>/<z&w",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird die Drehzahl übersetzt?",
+                        "<img src=\"Capture d’écran 2025-02-18 à 10.39.30.png\" width=\"602\">",
+                        "W1V1"
+                    ],
+                    "guid": "K>$8J$%u&r",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird das Drehmoment in einem Getriebe übersetzt?",
+                        "<img src=\"Capture d’écran 2025-02-18 à 10.41.50.png\">",
+                        "W1V1"
+                    ],
+                    "guid": "LtSsl:1>ZN",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird die Übersetzung von einem Getriebe berechnet?",
+                        "<img src=\"Capture d’écran 2025-02-25 à 15.47.21.png\" width=\"462\"><br><img src=\"Capture d’écran 2025-02-18 à 11.04.56.png\" width=\"460\">",
+                        "W1V1"
+                    ],
+                    "guid": "y32FfJoZz2",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Grundbegriffe für die Beschreibung eines Zahnrads durch das Modell Reibrad/ Zahnrad",
+                        "<img src=\"Capture d’écran 2025-02-18 à 10.48.14.png\" width=\"716\">",
+                        "W1V1"
+                    ],
+                    "guid": "eU<%{ic4iH",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie erfolgt der Eingriff?",
+                        "<img src=\"Capture d’écran 2025-02-18 à 10.51.29.png\" width=\"449\">",
+                        "W1V1"
+                    ],
+                    "guid": "wA3wl7/[|",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "inprog",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Kennwerte eines Zahnrades?",
+                        "<img src=\"Capture d’écran 2025-02-18 à 11.27.01.png\" width=\"688\">",
+                        "W1V1"
+                    ],
+                    "guid": "H/I(c_$z1o",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Zusammenhänge zwischen dem Modul und der Zahnhöhe?",
+                        "<img src=\"Capture d’écran 2025-02-18 à 11.29.27.png\" width=\"460\"><br><br>Diese Formeln gelten nur bei Nullzahnrädern.",
+                        "W1V1"
+                    ],
+                    "guid": "F$2got-SOo",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<ol><li>Was besagt die Grenzzähnezahl?</li><li>Welche Grenzähnezahlen gibt es?</li></ol>",
+                        "<img src=\"Capture d’écran 2025-02-25 à 16.01.43.png\" width=\"410\">",
+                        "W1V1"
+                    ],
+                    "guid": "M8?d)Sh$VB",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie werden Kräfte bei einem evoulventen Zahnradpaar übertragen?",
+                        "<img src=\"Capture d’écran 2025-02-25 à 15.53.14.png\" width=\"734\"><br>\\(r_{b} \\)&nbsp;ist der Radius des Grundkreises",
+                        "W1V1"
+                    ],
+                    "guid": "Q-Gn$9:$@J",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Modul eines Zahnrads?",
+                        "Ein Mass für die Zahngrösse (Zahndicke und -höhe). Es können nur Zahnräder mit gleichem Modul gepaart werden.",
+                        "W1V1"
+                    ],
+                    "guid": "Gbfz$TRcEs",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie ist der Grundkreis definiert?",
+                        "Ausgangskreis für die Evolventenkonstruktion",
+                        "W1V1"
+                    ],
+                    "guid": "xWhkpolr&]",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Beziehungen lassen sich an der Zahnflankenkonstruktion durch Evolventen ablesen?",
+                        "<img src=\"Capture d’écran 2025-02-25 à 17.25.59.png\" width=\"711\">",
+                        "W1V1"
+                    ],
+                    "guid": "oq/rm,_:lA",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "intuition",
+                        "prioC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Teilungsarten gibt es?",
+                        "<img src=\"Capture d’écran 2025-02-25 à 17.27.31.png\" width=\"721\">",
+                        "W1V1"
+                    ],
+                    "guid": "sEz7pWE.VF",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Lückenweite in einem Zahnrad?",
+                        "<img src=\"Capture d’écran 2025-02-25 à 17.28.48.png\" width=\"502\"><img src=\"Capture d’écran 2025-02-25 à 17.29.14.png\" width=\"493\">",
+                        "W1V1"
+                    ],
+                    "guid": "I-8l<~`;Nx",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div style=\"text-align: left;\">Was sind...</div><ul><li style=\"text-align: left;\">Eingriffslinie</li><li style=\"text-align: left;\">Eingriffstrecke</li><li style=\"text-align: left;\">Eingriffsteilung</li><li style=\"text-align: left;\">Berührpunkt</li></ul>",
+                        "<img src=\"Capture d’écran 2025-02-25 à 17.30.59.png\" width=\"738\">",
+                        "W1V1"
+                    ],
+                    "guid": "oWV#v1&K^T",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Nullachsenabstand?",
+                        "<img src=\"Capture d’écran 2025-02-25 à 17.32.55.png\" width=\"530\">",
+                        "W1V1"
+                    ],
+                    "guid": "DI{051~-Q&",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird die Eingriffstrecke berechnet?",
+                        "<img src=\"Capture d’écran 2025-02-25 à 17.33.59.png\" width=\"676\">",
+                        "W1V1"
+                    ],
+                    "guid": "G&(7z$l0}:",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird die Profilüberdeckung berechnet?",
+                        "<img src=\"Capture d’écran 2025-02-25 à 17.34.49.png\" width=\"658\">",
+                        "W1V1"
+                    ],
+                    "guid": "By)nXJ(#Sj",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Nullräder?",
+                        "<img src=\"Capture d’écran 2025-02-25 à 17.38.16.png\">",
+                        "W1V1"
+                    ],
+                    "guid": "I/Y#Y0@vkx",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind&nbsp;\\(V_{plus}\\)-Räder?",
+                        "<img src=\"Capture d’écran 2025-02-25 à 17.39.03.png\" width=\"650\"><br><div>had grössere Tragfähigkeit des Zahnrads und\nunterschnitt wird vermieden, darum wird meist dieses verwendet</div>",
+                        "W1V1"
+                    ],
+                    "guid": "qQn{,b==q1",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind&nbsp;\\(V_{minus}\\)-Räder?",
+                        "<img src=\"Capture d’écran 2025-02-25 à 17.39.41.png\" width=\"638\">",
+                        "W1V1"
+                    ],
+                    "guid": "Oi%9u1i^#&",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Betriebseingriffswinkel?",
+                        "<img src=\"Capture d’écran 2025-02-25 à 17.41.19.png\" width=\"753\">",
+                        "W1V1"
+                    ],
+                    "guid": "qXW~@CtXL5",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Unter welcher Bedinung können Passfedern, die eine andere Form als vorgesehen haben, verwendet werden?",
+                        "Die Kontaktfläche muss garantiert werden und genug gross sein, um das Drehmoment zu übertragen.",
+                        "W3V1"
+                    ],
+                    "guid": "IE{aW~q2`N",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Pressung ist bei der WNV relevant um Versagen zu vermeinden?",
+                        "<ul><li>die Pressung dort, wo das Versagen am Wahrscheinlichsten ist</li><li>Standard: Berechnung an der Nabe</li></ul>",
+                        "W3V1"
+                    ],
+                    "guid": "JG0jg%B/g+",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "852cbc0a-0810-11f0-85fc-8d496211e5e5",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "02. Dimensionierung",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "852cccb8-0810-11f0-85fc-8d496211e5e5",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Capture d’écran 2025-03-23 à 10.30.24.png",
+                "Capture d’écran 2025-03-23 à 10.56.17.png",
+                "Capture d’écran 2025-03-23 à 13.01.32.png",
+                "Capture d’écran 2025-03-23 à 13.54.42.png",
+                "Capture d’écran 2025-03-23 à 13.59.55.png",
+                "Capture d’écran 2025-03-23 à 14.00.08.png",
+                "Capture d’écran 2025-03-23 à 14.09.05.png",
+                "Capture d’écran 2025-03-23 à 14.10.31.png",
+                "Capture d’écran 2025-03-23 à 14.12.33.png"
+            ],
+            "name": "03. Wälzlager, Schmierung und Dichtung",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist für die Lagerauswahl entscheidend?",
+                        "Die Art der Belastung<br><br><img src=\"Capture d’écran 2025-03-23 à 10.30.24.png\" width=\"584\">",
+                        "W5V"
+                    ],
+                    "guid": "tZO,f37CmA",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Funktion der Lagerung?",
+                        "<img src=\"Capture d’écran 2025-03-23 à 10.56.17.png\" width=\"482\">",
+                        "W5V"
+                    ],
+                    "guid": "h*r9V:}4zy",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wann werden die verschiedenen Typen von Passungen verwendet?",
+                        "<img src=\"Capture d’écran 2025-03-23 à 13.01.32.png\" width=\"371\">",
+                        "W5V"
+                    ],
+                    "guid": "l:wLW{cdW8",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie versagen Lager?",
+                        "Nachdem sich ein kleiner Schaden gebildet hat, verschlimmert er sich exponentiell.<br><br><img src=\"Capture d’écran 2025-03-23 à 13.54.42.png\" width=\"809\">",
+                        "W5V"
+                    ],
+                    "guid": "H<xhoC03[T",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Lagerschäden können auftreten?",
+                        "<img src=\"Capture d’écran 2025-03-23 à 14.00.08.png\" width=\"633\"><br><img src=\"Capture d’écran 2025-03-23 à 13.59.55.png\" width=\"606\">",
+                        "W5V"
+                    ],
+                    "guid": "KB5k{N2xS+",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie erzielt man ein Minimum an Reibung mithilfe von Schmiermitteln?",
+                        "<img src=\"Capture d’écran 2025-03-23 à 14.09.05.png\" width=\"652\"><br><div>Bei zu viel Schmiermittel hat wieder erhöhte\nReibungsverluste: Will ein minimales Mass an Schmiermittle haben, mit welchem\nden Übergang zur Flüssigreibung.</div>",
+                        "W5V"
+                    ],
+                    "guid": "LA3zgLfap$",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Grundsatz: Wenn werden Schmiermittel verwendet werden?",
+                        "<img src=\"Capture d’écran 2025-03-23 à 14.10.31.png\" width=\"553\">",
+                        "W5V"
+                    ],
+                    "guid": "jWY**p=>RQ",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Eigenschaften einer Ölschmierung?",
+                        "<img src=\"Capture d’écran 2025-03-23 à 14.12.33.png\" width=\"666\">",
+                        "W5V"
+                    ],
+                    "guid": "J^``^~2u)6",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "852ce75c-0810-11f0-85fc-8d496211e5e5",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "04. Federn",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "852cf706-0810-11f0-85fc-8d496211e5e5",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "05. Schrauben und Kupplungen",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "852d0688-0810-11f0-85fc-8d496211e5e5",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "06. Fertigung & Produktion",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "852d1650-0810-11f0-85fc-8d496211e5e5",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "07. Mechanische Mechanismen",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "852d25d2-0810-11f0-85fc-8d496211e5e5",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "08. Elektromotoren",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "852d34be-0810-11f0-85fc-8d496211e5e5",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "09. Entwicklung",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        }
+    ],
+    "crowdanki_uuid": "852c73a8-0810-11f0-85fc-8d496211e5e5",
+    "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Standard",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": false,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "ETH MAVT Semester II::MK",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Vorderseite",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Rückseite",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Erklärung",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Einfach Erklärt",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}\n\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js\"></script>\n<script>hljs.highlightAll();</script>\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": null,
+                    "name": "Karte 1",
+                    "ord": 0,
+                    "qfmt": "{{Vorderseite}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}

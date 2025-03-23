@@ -1,0 +1,1113 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "35388436-0810-11f0-85fc-8d496211e5e5",
+            "deck_config_uuid": "35388526-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Capture d’écran 2025-02-17 à 12.43.01.png",
+                "Capture d’écran 2025-02-17 à 12.43.16.png",
+                "Capture d’écran 2025-02-17 à 12.48.04.png",
+                "Capture d’écran 2025-02-17 à 12.57.11.png",
+                "Capture d’écran 2025-02-17 à 13.18.26.png",
+                "Capture d’écran 2025-02-17 à 13.20.22.png",
+                "Capture d’écran 2025-02-17 à 13.21.11.png",
+                "Capture d’écran 2025-02-17 à 13.52.03.png",
+                "Capture d’écran 2025-02-19 à 08.23.10.png",
+                "Capture d’écran 2025-02-19 à 08.37.42.png",
+                "Capture d’écran 2025-02-19 à 08.45.57.png",
+                "Capture d’écran 2025-02-19 à 08.46.30.png",
+                "Capture d’écran 2025-02-19 à 09.28.15.png",
+                "Capture d’écran 2025-02-20 à 15.20.23.png",
+                "Capture d’écran 2025-02-20 à 15.30.49.png",
+                "Capture d’écran 2025-02-20 à 15.34.12.png",
+                "Capture d’écran 2025-02-20 à 16.16.05.png",
+                "Capture d’écran 2025-02-20 à 16.50.37.png",
+                "Capture d’écran 2025-02-20 à 17.41.31.png",
+                "Capture d’écran 2025-02-26 à 08.56.39.png",
+                "Capture d’écran 2025-02-26 à 09.01.26.png",
+                "Capture d’écran 2025-02-26 à 09.08.37.png",
+                "Capture d’écran 2025-02-28 à 08.42.13.png",
+                "Capture d’écran 2025-03-03 à 10.11.26.png",
+                "Capture d’écran 2025-03-03 à 12.21.46.png",
+                "Capture d’écran 2025-03-03 à 12.22.28.png",
+                "Capture d’écran 2025-03-03 à 12.39.38.png",
+                "Capture d’écran 2025-03-03 à 12.40.54.png",
+                "Capture d’écran 2025-03-03 à 13.00.48.png",
+                "Capture d’écran 2025-03-03 à 13.28.37.png",
+                "Capture d’écran 2025-03-03 à 13.52.49.png",
+                "Capture d’écran 2025-03-05 à 08.29.51.png",
+                "Capture d’écran 2025-03-05 à 09.43.24.png",
+                "Capture d’écran 2025-03-05 à 09.46.52.png",
+                "Capture d’écran 2025-03-05 à 09.47.31.png",
+                "Capture d’écran 2025-03-05 à 19.37.08.png",
+                "Capture d’écran 2025-03-05 à 19.39.28.png"
+            ],
+            "name": "IV. Funktionen von mehreren Variablen: Differentialrecchnung",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Darstellung von Funktionen mit mehreren Variablen (2x)",
+                        "<b>Getrennte Darstellung:<br><img src=\"Capture d’écran 2025-02-17 à 12.43.01.png\" width=\"521\"><br><br>Darstellung in 3D:</b><br><img src=\"Capture d’écran 2025-02-17 à 12.43.16.png\" width=\"528\">",
+                        "W1V1"
+                    ],
+                    "guid": "ptpWLl&ai$",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Harmonische Welle",
+                        "<img src=\"Capture d’écran 2025-02-17 à 12.48.04.png\" width=\"587\">",
+                        "W1V1"
+                    ],
+                    "guid": "l/-u[V&WG:",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Lineare Funktion in 2 Variablen",
+                        "<img src=\"Capture d’écran 2025-02-17 à 12.57.11.png\" width=\"774\">",
+                        "W1V1"
+                    ],
+                    "guid": "AO|Fd:O{Qp",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Niveaulinien/ das Niveau?",
+                        "<img src=\"Capture d’écran 2025-02-17 à 13.18.26.png\" width=\"530\"><br><br>Beispiel:<br><img src=\"Capture d’écran 2025-02-17 à 13.20.22.png\" width=\"534\">",
+                        "W1V1"
+                    ],
+                    "guid": "G@)NsNjHto",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hyperbelgleichung",
+                        "<img src=\"Capture d’écran 2025-02-17 à 13.21.11.png\" width=\"217\">",
+                        "W1V1"
+                    ],
+                    "guid": "C0$tF_DS<d",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vorgehen bestimmen von \"Höhenprofil\" (Verschiedenen Niveaulinien)",
+                        "<div>Methode: mithilfe Mustererkennung</div><ol>\n<li>Umformung der Gleichung zu einer Gleichung mit bekannter Form</li>\n<li>die Form einer\n     bestimmten Niveaulinie bestimmen</li>\n<li>bestimmen wie sich\n     die Niveaulinien mit der Höhe verändert</li></ol>",
+                        "W1V1"
+                    ],
+                    "guid": "rY&mp6ha~+",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Def. Partielle Ableitung an einer Stelle&nbsp;",
+                        "<img src=\"Capture d’écran 2025-02-17 à 13.52.03.png\" width=\"674\">",
+                        "W1V1"
+                    ],
+                    "guid": "P~(-qUnK/(",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Gradient von&nbsp;\\(f\\)&nbsp;?",
+                        "<img src=\"Capture d’écran 2025-02-19 à 08.23.10.png\" width=\"713\"><br>Zeigt in die Richtung der steilsten Steigung",
+                        "W1V2"
+                    ],
+                    "guid": "A{s9]9Hvg1",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was für Eigenschaften hat&nbsp;\\(f_{xy} \\equiv 0\\)?",
+                        "<img src=\"Capture d’écran 2025-02-19 à 08.37.42.png\" width=\"790\">",
+                        "W1V2"
+                    ],
+                    "guid": "QRyN/=^gv+",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Satz von Schwarz",
+                        "<img src=\"Capture d’écran 2025-02-19 à 08.45.57.png\" width=\"626\">",
+                        "W1V2"
+                    ],
+                    "guid": "t_z,PRpV?m",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was bedeutet Stetigkeit für Funktionen in zwei Variablen?",
+                        "<img src=\"Capture d’écran 2025-02-19 à 08.46.30.png\" width=\"679\">",
+                        "W1V2"
+                    ],
+                    "guid": "z(nArbmXi",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie lautetd die Integrabilitätsbedingung?",
+                        "<img src=\"Capture d’écran 2025-02-19 à 09.28.15.png\" width=\"701\">",
+                        "W1V2"
+                    ],
+                    "guid": "sd?Dat{OK>",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Lösungsvorgehen:<br><b>geg.:</b> zwei Funktionen<br><b>ges.: </b>existiert gemeinsame Stammfunktion?",
+                        "<div style=\"text-align: left;\">Lösungsmöglichkeiten: Am \"Kreislauf\" der IB orientieren</div><div style=\"text-align: left;\">&nbsp;&nbsp;<img src=\"Capture d’écran 2025-02-20 à 17.41.31.png\" width=\"320\"></div><div style=\"text-align: left;\"><b>Variante 1:</b></div><ol><li style=\"text-align: left;\">IB überprüfen</li><li style=\"text-align: left;\"><div style=\"text-align: left;\">Integrieren von&nbsp;</div><div style=\"text-align: left;\"> </div>\\(\\varphi\\)&nbsp;und&nbsp;\\(\\psi\\)&nbsp;</li><li style=\"text-align: left;\">Reultate miteinander vergleiche&nbsp;</li></ol><b><div style=\"text-align: left;\"><b>Variante 2:</b></div></b><ol><li>IB überprüfen</li><li>\\(\\varphi\\)&nbsp;oder&nbsp;\\(\\psi\\)&nbsp;integrieren&nbsp;\\(\\rightarrow\\)&nbsp;erhält Stammfunktion +&nbsp;\\(v(x)\\)&nbsp;oder&nbsp;\\(v(y)\\)<br></li><li>auf der anderen Seite (Kreislauf) ableiten</li><li>Die Ableitung mit&nbsp;\\(\\psi\\)&nbsp;bzw.&nbsp;\\(\\varphi\\)&nbsp;vergleichen, um&nbsp;\\(v(y)\\)&nbsp;bzw.&nbsp;\\(v(x)\\)&nbsp;zu bestimmen</li></ol>",
+                        "W1V2"
+                    ],
+                    "guid": "l6=|Ac<v(&",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "procedure"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Lineare Ersatzfunktion für zwei Variablen",
+                        "<img src=\"Capture d’écran 2025-02-20 à 15.20.23.png\">",
+                        "W1V3"
+                    ],
+                    "guid": "I&ZX|<Hzv~",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine Tangentialebene?",
+                        "<img src=\"Capture d’écran 2025-02-20 à 15.30.49.png\">",
+                        "W1V3"
+                    ],
+                    "guid": "PE{rwCtPJ?",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Qualität der Fehlerfunktion für Funktionen in zwei Variablen",
+                        "<img src=\"Capture d’écran 2025-02-20 à 15.34.12.png\">",
+                        "W1V3"
+                    ],
+                    "guid": "M4](s`zxMF",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Def. totales Differential",
+                        "<img src=\"Capture d’écran 2025-02-20 à 16.16.05.png\" width=\"593\">",
+                        "W1V3"
+                    ],
+                    "guid": "hr];%cWt(3",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Trick Nennerumformung einer Definition, durch hinzufügen -1",
+                        "<img src=\"Capture d’écran 2025-02-20 à 16.50.37.png\" width=\"351\">",
+                        "W1V3"
+                    ],
+                    "guid": "u0!xOp{zKE",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Eigenschaften hat&nbsp;\\(f\\)&nbsp;wenn die IB gegeben ist (2 Variablen)?",
+                        "<ul><li>\\(f\\)&nbsp;ist 2x stetig differenzierbar<br></li><li>Wenn&nbsp;\\(g\\)&nbsp;eine weitere solche Funktion wie&nbsp;\\(f\\)&nbsp;ist, dann unterscheiden sich&nbsp;\\(f\\)&nbsp;und&nbsp;\\(g\\)&nbsp;höchstens um eine Konstante</li><li>\\(f_{xy} = f_{yx}\\)<br></li></ul>",
+                        "W1V2"
+                    ],
+                    "guid": "Q_fEsC`m.2",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Extrema bei Funktionen in zwei Variablen?",
+                        "<img src=\"Capture d’écran 2025-02-26 à 08.56.39.png\" width=\"639\">",
+                        "W2V1"
+                    ],
+                    "guid": "xJX~|05=}Z",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Unter welcher Bedingug hat eine Funtkion&nbsp;\\(f\\)&nbsp;sicher eine globale Maximal- und Minimalstelle?",
+                        "<img src=\"Capture d’écran 2025-02-26 à 09.01.26.png\" width=\"768\">",
+                        "W2V1"
+                    ],
+                    "guid": "B)|q.?P4)I",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Bedingung erfüllt eine lokale Extremalstelle bei einer Funktion in zwei Variablen immer?",
+                        "<img src=\"Capture d’écran 2025-02-26 à 09.08.37.png\" width=\"476\">",
+                        "W2V1"
+                    ],
+                    "guid": "f4qKM#TIi.",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Verallgemeinerte Kettenregel",
+                        "<img src=\"Capture d’écran 2025-02-28 à 08.42.13.png\" width=\"851\">",
+                        "W2V2"
+                    ],
+                    "guid": "b^DvNA@6l:",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann bei Funktionen in mehreren Variabeln feststellen, welche Art von Extrema vorliegt?",
+                        "\\(\\left[ \\begin{array}{cc} f_{xx} &amp;&amp; f_{xy} \\\\ f_{yx} &amp;&amp; f_{yy}\\end{array} \\right] |_{(x_0,y_0)}\\)<br>...",
+                        "W2U"
+                    ],
+                    "guid": "h8rUb+)WM4",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "inprog",
+                        "prioC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tangentensteigung an einer Niveaulinie",
+                        "<img src=\"Capture d’écran 2025-03-03 à 10.11.26.png\" width=\"717\">",
+                        "W2V2"
+                    ],
+                    "guid": "Jn7,{psneY",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "formel",
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Erweiterter Satz von Schwarz",
+                        "<img src=\"Capture d’écran 2025-03-03 à 12.21.46.png\" width=\"773\">",
+                        "W3V1"
+                    ],
+                    "guid": "ho)-x0^8@T",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Erweiterte Integrabilitätsbedinung (3 Variabeln)",
+                        "<img src=\"Capture d’écran 2025-03-03 à 12.22.28.png\" width=\"710\">",
+                        "W3V1"
+                    ],
+                    "guid": "e7X:?s-8zr",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie lauted die verallgemeinerte Kettenregel für Funktionen mit drei Variablen?",
+                        "<img src=\"Capture d’écran 2025-03-03 à 12.39.38.png\" width=\"538\">",
+                        "W3V1"
+                    ],
+                    "guid": "hDW:7!gS$L",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Nablaoperator?",
+                        "<img src=\"Capture d’écran 2025-03-03 à 12.40.54.png\" width=\"676\"><br>Wenn auf&nbsp;\\(f\\)&nbsp;anwendet, dann erhält den Gradienten.",
+                        "W3V1"
+                    ],
+                    "guid": "mLYWyuv?XK",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welcher Zusammenhang besteht zwischen dem Gradienten und der Niveaulinie/ Niveaufläche?",
+                        "Orthogonalität:<br>Der Gradient ist der nOmralenvektror auf der Niveaufläche, senkrecht zur Niveaulinie.",
+                        "W3V1"
+                    ],
+                    "guid": "Fj%sGwK%Lp",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie lautet die Richtungsableitung von&nbsp;\\(f\\)&nbsp;an einer Stelle&nbsp;\\(\\vec{r_0}\\)?",
+                        "<img src=\"Capture d’écran 2025-03-03 à 13.00.48.png\" width=\"755\">",
+                        "W3V1"
+                    ],
+                    "guid": "m:qS4QP{R8",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wieso zeigt der Gradient in die Richtung der steilsten Steigung?",
+                        "<img src=\"Capture d’écran 2025-03-03 à 13.28.37.png\" width=\"621\">",
+                        "W3V1"
+                    ],
+                    "guid": "wO-k4awVoL",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "intuition",
+                        "prioC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Berechnung einer Tangentialebene an einer Niveaufläche einer Funktion",
+                        "<ol><li>Zwei Punkte in der Ebene bestimmen&nbsp;\\(\\rightarrow\\)&nbsp;Vektor, der in\n     Ebene ist</li>\n<li>Vektor in der\n     Ebene, Skalarprodukt mit Gradient = 0</li>\n<li>Gleichung auflösen</li></ol><div><img src=\"Capture d’écran 2025-03-03 à 13.52.49.png\" width=\"555\">&nbsp;</div>",
+                        "W3V1"
+                    ],
+                    "guid": "e-)9}]9fTs",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB",
+                        "procedure"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Lineare Ersatzfunktion für Funktionen in drei Variablen",
+                        "<img src=\"Capture d’écran 2025-03-05 à 08.29.51.png\" width=\"727\">",
+                        "W3V2"
+                    ],
+                    "guid": "v3g=d$hRsh",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "formel",
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie können die Koordinatentransformationen von höheren Ableitungen bestimmt werden?",
+                        "\n<div>\n<div><ol>\n<li>Vorherige Ableitung bestimmen</li>\n<li>\\(f_x\\)&nbsp;und&nbsp;\\(f_y\\)&nbsp;erneut\n     Ableiten</li>\n<li>Term vereinfachen</li></ol></div>\n</div>",
+                        "W3V2"
+                    ],
+                    "guid": "bo<);I(0|r",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB",
+                        "procedure"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Idee hinter Koordinatentransformationen?",
+                        "<img src=\"Capture d’écran 2025-03-05 à 09.43.24.png\" width=\"634\"><br>Polarkoordinatensystem kann auch wie ganz links dargestellt werden, nützlich ist jedoch vor allem die Darstellung, bei welcher der Graph gleich aussieht wie der Graph im kartesischen&nbsp;\\((x,y)\\)&nbsp;Koordinatensystem.",
+                        "W3V2"
+                    ],
+                    "guid": "A[^Wv(:b9p",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie ist der Laplace-Operator definiert?",
+                        "<img src=\"Capture d’écran 2025-03-05 à 09.46.52.png\" width=\"732\">",
+                        "W3V2"
+                    ],
+                    "guid": "mmfPHF3n^y",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie lautet der Laplace-Operator in Polarkoordinaten?",
+                        "<img src=\"Capture d’écran 2025-03-05 à 09.47.31.png\" width=\"674\">",
+                        "W3V2"
+                    ],
+                    "guid": "JaT+$o4%A]",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann man Koordiantentransformationen für partielle Ableitungen durchfürhen?",
+                        "<div style=\"text-align: left;\">geg.: Beziehung zwischen Koordinatensytemen</div><div><ol><li style=\"text-align: left;\">Durch Funktionsverkettung die Koordinatentransformation durchführen</li><li style=\"text-align: left;\">Funktion ableiten</li></ol></div><div style=\"text-align: left;\"><img src=\"Capture d’écran 2025-03-05 à 19.37.08.png\" width=\"402\"></div>",
+                        "W3V2"
+                    ],
+                    "guid": "s=jeO:.{Lu",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann eine Umkehrtransformation durchgefürt werden?",
+                        "<img src=\"Capture d’écran 2025-03-05 à 19.39.28.png\" width=\"481\">",
+                        "W3V2"
+                    ],
+                    "guid": "HEs9w@WG<6",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA",
+                        "procedure"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "3538aaba-0810-11f0-85fc-8d496211e5e5",
+            "deck_config_uuid": "3538ab64-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Capture d’écran 2025-03-11 à 08.53.59.png",
+                "Capture d’écran 2025-03-17 à 12.40.03.png",
+                "Capture d’écran 2025-03-17 à 12.41.29.png",
+                "Capture d’écran 2025-03-17 à 12.45.43.png",
+                "Capture d’écran 2025-03-19 à 08.47.17.png",
+                "Capture d’écran 2025-03-19 à 09.49.51.png"
+            ],
+            "name": "V. Funktionen von mehreren Variablen: Integralrechnung",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie lässt sich ddas Flächenelement&nbsp;\\(dF\\)&nbsp;in Polarkoordianten schreiben?",
+                        "<img src=\"Capture d’écran 2025-03-11 à 08.53.59.png\" width=\"638\">",
+                        "W4V1"
+                    ],
+                    "guid": "G;bRWJ.41F",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Jacobi-Matrix?",
+                        "<br><img src=\"Capture d’écran 2025-03-17 à 12.45.43.png\" width=\"562\"><br><img src=\"Capture d’écran 2025-03-17 à 12.40.03.png\" width=\"568\">",
+                        "W4U"
+                    ],
+                    "guid": "tn:h_psS)]",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie lautet die Mehrdimensionale Substitutionsregel?",
+                        "<img src=\"Capture d’écran 2025-03-17 à 12.41.29.png\" width=\"672\">",
+                        "W4U"
+                    ],
+                    "guid": "bmYfSr^<?w",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ableitung eines Integrals ohne Parameterfunktionen in den Grenzen",
+                        "<img src=\"Capture d’écran 2025-03-19 à 08.47.17.png\" width=\"701\">",
+                        "W5V2"
+                    ],
+                    "guid": "hbm$3+KdSS",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann die Ableitung eines Integrals mit Parametern bestimmt werden?",
+                        "Leibnitz-Regel:<br><br><img src=\"Capture d’écran 2025-03-19 à 09.49.51.png\" width=\"806\">",
+                        "W5V2"
+                    ],
+                    "guid": "Q6rC:8GK/_",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "formel",
+                        "prioA"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "3538b8b6-0810-11f0-85fc-8d496211e5e5",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Capture d’écran 2025-03-21 à 08.24.16.png",
+                "Capture d’écran 2025-03-21 à 09.37.24.png"
+            ],
+            "name": "VI. Vektoranalysis",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Divergenz eines Vektorfelds?",
+                        "<img src=\"Capture d’écran 2025-03-21 à 08.24.16.png\" width=\"694\">",
+                        "W5V3"
+                    ],
+                    "guid": "jA]T#^ju>%",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Rotation eines Vektorfelds?",
+                        "<img src=\"Capture d’écran 2025-03-21 à 09.37.24.png\" width=\"721\">",
+                        "W5V3"
+                    ],
+                    "guid": "e$SDG6~m=]",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        }
+    ],
+    "crowdanki_uuid": "353870c2-0810-11f0-85fc-8d496211e5e5",
+    "deck_config_uuid": "35387518-0810-11f0-85fc-8d496211e5e5",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "35387518-0810-11f0-85fc-8d496211e5e5",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Standard",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": false,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "35388526-0810-11f0-85fc-8d496211e5e5",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Standard",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": false,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "3538ab64-0810-11f0-85fc-8d496211e5e5",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Standard",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": false,
+            "weightSearch": ""
+        },
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Standard",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": false,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "ETH MAVT Semester II::Analysis II",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Vorderseite",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Rückseite",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Erklärung",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Einfach Erklärt",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}\n\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js\"></script>\n<script>hljs.highlightAll();</script>\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": null,
+                    "name": "Karte 1",
+                    "ord": 0,
+                    "qfmt": "{{Vorderseite}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}

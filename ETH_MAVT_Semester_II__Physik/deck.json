@@ -1,0 +1,439 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "958bcf64-0810-11f0-85fc-8d496211e5e5",
+    "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Standard",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": false,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "Capture d’écran 2025-02-18 à 15.00.37.png",
+        "Capture d’écran 2025-02-26 à 20.45.49.png",
+        "Capture d’écran 2025-02-26 à 20.49.45.png",
+        "Capture d’écran 2025-02-26 à 20.50.59.png",
+        "Capture d’écran 2025-02-26 à 20.51.59.png",
+        "Capture d’écran 2025-02-26 à 20.54.58.png",
+        "Capture d’écran 2025-02-26 à 20.56.36.png",
+        "Capture d’écran 2025-02-26 à 20.56.44.png",
+        "Capture d’écran 2025-02-26 à 20.58.31.png",
+        "Capture d’écran 2025-02-26 à 20.58.58.png",
+        "Capture d’écran 2025-03-06 à 17.17.18.png",
+        "Capture d’écran 2025-03-06 à 17.48.56.png",
+        "Capture d’écran 2025-03-06 à 17.50.49.png"
+    ],
+    "name": "ETH MAVT Semester II::Physik",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Vorderseite",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Rückseite",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Erklärung",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Einfach Erklärt",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}\n\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js\"></script>\n<script>hljs.highlightAll();</script>\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": null,
+                    "name": "Karte 1",
+                    "ord": 0,
+                    "qfmt": "{{Vorderseite}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wirkungen von Strom",
+                "<ul><li>magnetisch</li><li>thermisch (alle Stromdurchflossenen Leiter (ausser Supraleiter) erwärmen sich)</li><li>chemisch</li></ul>",
+                "W1V"
+            ],
+            "guid": "h5Jo]YLr:F",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "prioB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definition von Strom",
+                "\\(I = \\frac{Q}t\\)<br>\\(Q\\)&nbsp;ist die elektrische Ladung<br>\\([Q]\\)&nbsp;As Ampèresekunde oder C Coulomb<br><br>Allgemeiner:<br>\\(I  = \\frac{dQ}{dt}\\)",
+                "II.3"
+            ],
+            "guid": "mt1,@1I1>2",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "formel",
+                "prioA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Berechnung der Ladung",
+                "<img src=\"Capture d’écran 2025-02-18 à 15.00.37.png\" width=\"483\">",
+                "II.3"
+            ],
+            "guid": "I<uS~!kx7}",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "formel",
+                "prioA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Formel Elektrische Feldstärke",
+                "<img src=\"Capture d’écran 2025-02-26 à 20.45.49.png\">",
+                "W3V"
+            ],
+            "guid": "sOt~%88w!c",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "formel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Formel Wiederstand in einem nicht-Ohmischen Leiter",
+                "<img src=\"Capture d’écran 2025-02-26 à 20.49.45.png\" width=\"210\">",
+                "W2V"
+            ],
+            "guid": "xPHki:0>Eu",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "formel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Formel: Ohmischer Wiederstand abhängig von der Grösse",
+                "<img src=\"Capture d’écran 2025-02-26 à 20.50.59.png\" width=\"752\">",
+                "W2V"
+            ],
+            "guid": "BK=P}Qe)ab",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "formel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie wird gemessen, ob etwas ein guter Wiederstand ist?",
+                "spezifische Leitfähigkeit:&nbsp;<br><img src=\"Capture d’écran 2025-02-26 à 20.51.59.png\" width=\"643\">",
+                "W2V"
+            ],
+            "guid": "v0.cy}Gl(-",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "formel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Formel: Berechnung Wiederstand abhängig von Temeratur",
+                "<img src=\"Capture d’écran 2025-02-26 à 20.54.58.png\" width=\"751\">",
+                "W2V"
+            ],
+            "guid": "gS;/;ADV|c",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "formel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiele für die Abhängigkeit des Wiederstands von der Temperatur",
+                "<img src=\"Capture d’écran 2025-02-26 à 20.56.44.png\" width=\"505\"><img src=\"Capture d’écran 2025-02-26 à 20.56.36.png\" width=\"470\"><br><div>Der spezifische Widerstand des Halbleiters (Abb. II.7) fällt exponentiell mit steigender</div>\n<div>Temperatur. Bei tiefsten Temperaturen sind Halbleiter, wie z.B. Germanium, gute Isola-</div>\n<div>toren; alle Elektronen sind an den Gitterbindungen beteiligt.</div>",
+                "W2V"
+            ],
+            "guid": "C?e)`tB<wc",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "intuition"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kirkoffschen Regeln: Knotenregel",
+                "<img src=\"Capture d’écran 2025-02-26 à 20.58.31.png\" width=\"744\">",
+                "W2V"
+            ],
+            "guid": "Jrytc}tcI[",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "formel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kirkoffschen Regeln: Maschenregel",
+                "<img src=\"Capture d’écran 2025-02-26 à 20.58.58.png\" width=\"834\">",
+                "W2V"
+            ],
+            "guid": "dO67y+p37n",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "formel"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist eine Äquipotentiallinie?",
+                "Eine Linie im Raum, auf welcher alle Punkte dasselbe elektrische Potential haben.",
+                "W3V"
+            ],
+            "guid": "vo!dz-^fpI",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "prioB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vorzeichenkonvention von Ladungsströmen",
+                "Ladungsstrom ins System&nbsp;\\(+\\)<br>Ladungsstrom aus System&nbsp;\\(-\\)",
+                "Physik für Ingenieure - Ulrich Hahn<br>5.1.2"
+            ],
+            "guid": "vS#/@CX<>@",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "prioC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Formel Ladungsdichte",
+                "<img src=\"Capture d’écran 2025-03-06 à 17.17.18.png\" width=\"416\">",
+                "Physik für Ingenieure - Ulrich Hahn<br>5.1.2"
+            ],
+            "guid": "Q-SZ(=6p|c",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "formel",
+                "prioC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Stromkreis?",
+                "eine Transportvorrichtung für elektrische Energie",
+                "Physik für Ingenieure - Ulrich Hahn<br>5.1.3"
+            ],
+            "guid": "Bxq:GO|yqv",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "formel",
+                "prioC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist eine Stromquelle?",
+                "<ul><li>überträgt Energie von einem anderen Träger auf die elektrische Leitung</li><li>wandelt z.B. mechanische oder chemische Energie in elektrische Energie um</li></ul>",
+                "Physik für Ingenieure - Ulrich Hahn<br>5.1.3"
+            ],
+            "guid": "nZdN>7vmUk",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "prioC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Verbraucher?",
+                "Eine Vorrichtung, welche elektrische Energie in andere Energieformen umwandelt, sie aus dem Stromkreis abgiebt.",
+                "Physik für Ingenieure - Ulrich Hahn<br>5.1.3"
+            ],
+            "guid": "FcnPAljX]=",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "prioC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie funktioniert ein Spannungsabfallj?",
+                "<img src=\"Capture d’écran 2025-03-06 à 17.48.56.png\" width=\"378\">",
+                "Physik für Ingenieure - Ulrich Hahn<br>5.1.3"
+            ],
+            "guid": "NqKInK;+u:",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "prioC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist elektrische Spannung?",
+                "<img src=\"Capture d’écran 2025-03-06 à 17.50.49.png\" width=\"532\">",
+                "Physik für Ingenieure - Ulrich Hahn<br>5.1.3"
+            ],
+            "guid": "EVv4OQ,eyl",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "prioC"
+            ]
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}

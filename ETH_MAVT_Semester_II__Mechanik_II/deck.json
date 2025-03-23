@@ -1,0 +1,657 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "76b77188-0810-11f0-85fc-8d496211e5e5",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Capture d’écran 2025-02-19 à 10.36.20.png",
+                "Capture d’écran 2025-02-24 à 10.28.16.png",
+                "Capture d’écran 2025-02-24 à 10.52.45.png",
+                "Capture d’écran 2025-02-24 à 10.53.06.png",
+                "Capture d’écran 2025-02-24 à 11.03.02.png",
+                "Capture d’écran 2025-02-24 à 11.31.19.png",
+                "Capture d’écran 2025-02-24 à 11.35.31.png",
+                "Capture d’écran 2025-02-24 à 14.35.27.png",
+                "Capture d’écran 2025-02-24 à 14.40.09.png",
+                "Capture d’écran 2025-02-24 à 14.47.04.png",
+                "Capture d’écran 2025-02-24 à 15.02.54.png",
+                "Capture d’écran 2025-02-24 à 15.13.40.png",
+                "Capture d’écran 2025-02-26 à 15.45.09.png",
+                "Capture d’écran 2025-02-26 à 15.46.39.png",
+                "Capture d’écran 2025-02-26 à 15.49.56.png",
+                "Capture d’écran 2025-03-03 à 10.39.09.png",
+                "Capture d’écran 2025-03-03 à 10.52.43.png",
+                "Capture d’écran 2025-03-03 à 12.17.33.png",
+                "Capture d’écran 2025-03-03 à 15.37.18.png",
+                "Capture d’écran 2025-03-05 à 10.40.58.png",
+                "Capture d’écran 2025-03-05 à 10.50.27.png",
+                "Capture d’écran 2025-03-10 à 11.26.23.png",
+                "Capture d’écran 2025-03-19 à 11.31.43.png"
+            ],
+            "name": "01. Spannung",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Flächenkraftdichte/ Normalspannung",
+                        "\\(\\frac{N}{A_0} = \\sigma\\)",
+                        "W1V"
+                    ],
+                    "guid": "zJeKY/}Xrr",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist Schubspannung?",
+                        "\\(\\tau = \\frac{T}{A}\\)",
+                        "W1V"
+                    ],
+                    "guid": "rc@Jgan_D9",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie verhalten sich die Schubspannung und Normalspannung abhängig vom Winkel bei einer Zugkraft am Stab?",
+                        "<img src=\"Capture d’écran 2025-02-24 à 15.13.40.png\" width=\"499\"><br><br>Schubspannung: Maxima bei&nbsp;\\(45° +k\\cdot 90°\\)<br>Normalspannung Maxima bei&nbsp;\\(0° + k\\cdot 180°\\)",
+                        "W1V1"
+                    ],
+                    "guid": "E;%7,5y<Rk",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Erkenntnisse Mech I:<br>Wo liegt die Biegemomentslinie?",
+                        "Beim Zeichnen der Biegenmomentenlinie (\\(M_z\\)&nbsp;vs.&nbsp;\\(x\\))\n     wähle man die <b>negative</b>&nbsp;\\(y\\)-Richtung als <b>posoitive</b>&nbsp;\\(M_z\\)-Achse&nbsp;\\(\\Rightarrow\\)&nbsp;Biegemomentenlinie liegt immer auf der Zugseite (Zugseite\n     von Material)<br><br><img src=\"Capture d’écran 2025-02-24 à 10.28.16.png\" width=\"421\">",
+                        "W1K"
+                    ],
+                    "guid": "F!5G<S>-$t",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Erkentnisse Mech I:<br>Was besagt das Superpositionsprinzip?",
+                        "LinAlg: Kann Systeme in verschidene Systeme aufteilen und wieder zusammenaddieren<br><img src=\"Capture d’écran 2025-02-24 à 10.52.45.png\" width=\"523\"><br><img src=\"Capture d’écran 2025-02-24 à 10.53.06.png\" width=\"521\"><br><img src=\"Capture d’écran 2025-02-24 à 11.03.02.png\" width=\"518\">",
+                        "W1K"
+                    ],
+                    "guid": "c:s:ekK`pe",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Erkenntnisse Mech I:<br>Wahl Koordintensystem für Beanspruchung",
+                        "<ol>\n<li>Bei 2D Systemen, wählt man das Koordianatensystem (KOS)\n     so dass die:</li>\n<ol>\n<li>x-Achse parallel zur Balkenmittellinie verläuft (weil\n      ansonsten die Differentialbeziehungen nicht mehr gelten)</li>\n<li>z-Achse in\n      Zeichenebene hinein zeigt</li>\n</ol></ol>",
+                        "W1K"
+                    ],
+                    "guid": "H;M,kkC)=k",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Erkenntnisse Mech I:<br>Welches ist das Positive Schnittufer?",
+                        "Am positiven Schnittufer definiert&nbsp;\\(\\underline{e}_x\\)&nbsp;die Richtung und den Richtungssinn der Schnittflächennormale.",
+                        "W1K"
+                    ],
+                    "guid": "Lp^*)KJAW=",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Spannungsvektor?",
+                        "Die Normal- und Schubspannungen an einem Materialpunkt im Inneren eines Körpers sind bezüglich einer hypothetischen Schnittfläche definiert.<br><img src=\"Capture d’écran 2025-02-24 à 11.31.19.png\" width=\"948\">",
+                        "W2V"
+                    ],
+                    "guid": "g@{(AV^YNh",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Spannungstensor?",
+                        "<img src=\"Capture d’écran 2025-02-24 à 11.35.31.png\">",
+                        "W2V1"
+                    ],
+                    "guid": "ztl./mZc#4",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein Tensor?",
+                        "<ul><li><span style=\"color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);\">Ein&nbsp;</span>Tensor<span style=\"color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);\">&nbsp;ist eine multilineare Abbildung</span><span style=\"color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);\">, die eine bestimmte Anzahl von Vektoren&nbsp;</span><span style=\"color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);\">auf einen Vektor abbildet und eine universelle Eigenschaft</span><span style=\"color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);\">erfüllt.</span></li><li>Die Vektortransformation hängt vom KOS ab</li><li>Wenn eine Vektortransformation in einembestimmten Koordinatensystem durchgeführt wird, wird der Tensor durch eine bestimmte Matrix ersetzt</li></ul>\\(\\rightarrow\\)&nbsp;Für ein bestimmtes KOS können die Vektoren in Komponentenschreibweise und der Spannungsvektor als Matrix ausgedrückt werden<br>",
+                        "W2V1"
+                    ],
+                    "guid": "z5xj#5K_:~",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beziehung zwischen der Schnittfläche und der Grundfläche eines Stabes",
+                        "<img src=\"Capture d’écran 2025-02-24 à 14.35.27.png\" width=\"632\">",
+                        "W1V1"
+                    ],
+                    "guid": "gjufu`!506",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Beziehung Normal- und Schubspannung zur Grundfläche eines Stabes",
+                        "<img src=\"Capture d’écran 2025-02-24 à 14.40.09.png\" width=\"721\">",
+                        "W1V1"
+                    ],
+                    "guid": "Cw@A_;$D}o",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Normalspannung infinitestimale Betrachtung",
+                        "Infinitestimale Betrachtung Fläche + def. Normalspannung&nbsp;\\(\\rightarrow\\)&nbsp;Infinitestimale Normalspannung<br><br><img src=\"Capture d’écran 2025-02-24 à 14.47.04.png\" width=\"465\"><br><img src=\"Capture d’écran 2025-02-19 à 10.36.20.png\" width=\"457\">",
+                        "W1V2"
+                    ],
+                    "guid": "D?m!GP2~#r",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Komponenten müssen bekannt sein, damit die Spannung in einem Materialpunkt berechnet werden kann?",
+                        "Es werden drei Komponenten benötigt (2x Normalspannung, 1x Schubspannung):<br><img src=\"Capture d’écran 2025-02-24 à 15.02.54.png\" width=\"565\"><br>Bei Schubspannung kann durch Momentengleichung diese in Beziehung setzen. Desshalb wird nur eine Schubspannung, jedoch zwei Normalspannungen benötigt.",
+                        "W1V1"
+                    ],
+                    "guid": "Qz.oB1!<(Y",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div style=\"text-align: left;\">Vorgehen:</div><div style=\"text-align: left;\"><b>geg.: </b>Spannungen</div><div style=\"text-align: left;\"><b>ges.: </b>Hauptrichtungen und Hauptspannungen zu berechnen</div>",
+                        "<ol>\n<li>Hauptrichtungen berechnen</li>\n<li>Winkel in die\n     Gelichung für Sigma-n einsetzen</li></ol>",
+                        "W2K"
+                    ],
+                    "guid": "d>Yeth:k==",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA",
+                        "procedure"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Berechnung der Normalspannung und Schubspannung abhängig vom Spannungsvektor",
+                        "<img src=\"Capture d’écran 2025-02-26 à 15.46.39.png\" width=\"859\"><br><img src=\"Capture d’écran 2025-02-26 à 15.45.09.png\" width=\"569\">",
+                        "V2V2"
+                    ],
+                    "guid": "xikImNt<[t",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "formel",
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Berechnung der Hauptrichtung",
+                        "<img src=\"Capture d’écran 2025-02-26 à 15.49.56.png\">",
+                        "V2V2"
+                    ],
+                    "guid": "qg=75)K2^E",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "formel",
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mohr'scher Spannungskreis",
+                        "<img src=\"Capture d’écran 2025-03-03 à 10.39.09.png\" width=\"558\">",
+                        "W3V1"
+                    ],
+                    "guid": "IHTU5qlK/3",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "intuition",
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vorgehen:<br><b>geg.:</b> Spannungstensor<br><b>ges.:</b> Zeichnen des Mohr'schen Spannungskreis",
+                        "<img src=\"Capture d’écran 2025-03-03 à 10.52.43.png\" width=\"679\">",
+                        "W3V1"
+                    ],
+                    "guid": "Ord*{&9T3E",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB",
+                        "procedure"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wann können Körper als Starre Körper (Statik) betrachtet werden?",
+                        "<div><div>Die Erstarrbarkeitsbedingungen müssen gelten:</div><ol><li>Die Deformationen sind \"klein\" im Vergleich zu den Abmessungen.</li><li>Das Problem ist statisch bestimmt.</li><li>Bei der Beurteilung der Funktionsfähigkeit genügt die Kenntnis der globalen Kräfteübertragung (z.B. in Form von Normal- und Querkraft, Torsions- und Biegemoment an jedem Querschnitt eines Balkenträgers).</li></ol></div>",
+                        "Ingenieurmechanik 2 - Mahir B. Sayir, Jürg Dual, Stephan Kaufmann<br>III. Deformierbare Körper"
+                    ],
+                    "guid": "C3,>*@xD95",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "literatur",
+                        "prioC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vorgehen: Koordinatentransformation",
+                        "<ol>\n<li>Gleichung für Normalspannung abhängig vom\n     Spannungstensor in ges. Koordinatensytem aufschreiben</li>\n<li>Vektoren in das\n     geg. Koordinatensystem transferieren</li>\n<li>Analoges Vorgehen\n     für andere Spannungen</li></ol><div><img src=\"Capture d’écran 2025-03-03 à 12.17.33.png\" width=\"720\"><br></div>",
+                        "W3V1"
+                    ],
+                    "guid": "I5HKxBIP@h",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB",
+                        "procedure"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Formel: Koordinatentransformationen",
+                        "<img src=\"Capture d’écran 2025-03-03 à 15.37.18.png\" width=\"403\">",
+                        "W3V1"
+                    ],
+                    "guid": "Pn{Y2M7LLL",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "formel",
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Spannungstensor 3D",
+                        "<img src=\"Capture d’écran 2025-03-05 à 10.40.58.png\">",
+                        "W3V2"
+                    ],
+                    "guid": "w3lf2c;|O5",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "formel",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In welchem Zusammenhang steht die Kontinuumsmechanik im Konstruktionsprozess?",
+                        "<img src=\"Capture d’écran 2025-03-05 à 10.50.27.png\" width=\"298\">",
+                        "Ingenieurmechanik 2 - Mahir B. Sayir, Jürg Dual, Stephan Kaufmann<br>III. Deformierbare Körper"
+                    ],
+                    "guid": "Nt~d+<Qxev",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "literatur",
+                        "prioC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Spannungsbedingte Versagenskriterien (3x)",
+                        "<img src=\"Capture d’écran 2025-03-10 à 11.26.23.png\" width=\"652\">",
+                        "W4V1"
+                    ],
+                    "guid": "g~=Si=FJkh",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mohr'scher Spannungskreis 3D",
+                        "<img src=\"Capture d’écran 2025-03-19 à 11.31.43.png\" width=\"774\">",
+                        "W4V1"
+                    ],
+                    "guid": "uVi<bL;(M:",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "76b79d48-0810-11f0-85fc-8d496211e5e5",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Capture d’écran 2025-03-19 à 11.32.56.png",
+                "Capture d’écran 2025-03-19 à 11.34.32.png",
+                "Capture d’écran 2025-03-19 à 11.35.38.png",
+                "Capture d’écran 2025-03-19 à 11.36.04.png",
+                "Capture d’écran 2025-03-19 à 11.43.20.png"
+            ],
+            "name": "02. Verzerrungen",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Transformation einer Materialpunktnachbarschaft (grafisch)",
+                        "<img src=\"Capture d’écran 2025-03-19 à 11.32.56.png\" width=\"989\">",
+                        "W4V2"
+                    ],
+                    "guid": "ACrZyv6bM!",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Komponenten des Verzerrungstensors",
+                        "<img src=\"Capture d’écran 2025-03-19 à 11.34.32.png\" width=\"831\"><br><br>Symetrischer und Asymetrischer Teil:<br><img src=\"Capture d’écran 2025-03-19 à 11.35.38.png\" width=\"832\"><br><br>Spezialfälle:<br><img src=\"Capture d’écran 2025-03-19 à 11.36.04.png\" width=\"815\">",
+                        "W4V2"
+                    ],
+                    "guid": "cdaDCrctdC",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Interpretation der Komponenten des Verzerrungstensors",
+                        "<img src=\"Capture d’écran 2025-03-19 à 11.43.20.png\" width=\"1123\">",
+                        "W4V2"
+                    ],
+                    "guid": "f[0Icyqq?P",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "76b7af40-0810-11f0-85fc-8d496211e5e5",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Capture d’écran 2025-03-19 à 11.46.14.png"
+            ],
+            "name": "03. Linear elastisches isotropes Stoffverhalten",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Beziehungen gelten im linear elastischen Bereich von gewissen Materialien?",
+                        "<img src=\"Capture d’écran 2025-03-19 à 11.46.14.png\" width=\"1087\">",
+                        "W5V2"
+                    ],
+                    "guid": "m0E=`48zpY",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioB"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        }
+    ],
+    "crowdanki_uuid": "76b75a5e-0810-11f0-85fc-8d496211e5e5",
+    "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Standard",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": false,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "ETH MAVT Semester II::Mechanik II",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Vorderseite",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Rückseite",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Erklärung",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Einfach Erklärt",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}\n\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js\"></script>\n<script>hljs.highlightAll();</script>\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": null,
+                    "name": "Karte 1",
+                    "ord": 0,
+                    "qfmt": "{{Vorderseite}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}

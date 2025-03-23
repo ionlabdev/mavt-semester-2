@@ -1,0 +1,594 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "58d69d88-0810-11f0-85fc-8d496211e5e5",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Capture d’écran 2025-03-02 à 09.04.36.png",
+                "Capture d’écran 2025-03-02 à 09.06.55.png",
+                "Capture d’écran 2025-03-02 à 09.11.10.png",
+                "Capture d’écran 2025-03-02 à 09.11.45.png",
+                "Capture d’écran 2025-03-02 à 09.15.00.png",
+                "Capture d’écran 2025-03-02 à 09.18.10.png",
+                "Capture d’écran 2025-03-02 à 09.19.36.png",
+                "Capture d’écran 2025-03-02 à 09.21.06.png",
+                "Capture d’écran 2025-03-02 à 09.21.27.png",
+                "Capture d’écran 2025-03-07 à 12.43.58.png",
+                "Capture d’écran 2025-03-07 à 12.53.42.png",
+                "Capture d’écran 2025-03-07 à 18.47.54.png",
+                "Capture d’écran 2025-03-11 à 12.42.03.png",
+                "Capture d’écran 2025-03-20 à 13.29.13.png",
+                "Capture d’écran 2025-03-20 à 13.56.06.png",
+                "Capture d’écran 2025-03-20 à 13.57.50.png",
+                "Capture d’écran 2025-03-20 à 13.58.41.png",
+                "Capture d’écran 2025-03-21 à 10.40.08.png",
+                "Capture d’écran 2025-03-21 à 10.40.55.png",
+                "Capture d’écran 2025-03-21 à 10.42.19.png",
+                "Capture d’écran 2025-03-21 à 10.42.40.png",
+                "Capture d’écran 2025-03-21 à 17.10.34.png"
+            ],
+            "name": "06. Lineare Abbildungen",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wann sind zwei Matrizen ähnlich?",
+                        "<img src=\"Capture d’écran 2025-03-02 à 09.04.36.png\"><br>Ähnliche Matrixen beschreiben die gleichen Abbildungen in unterschiedlichen KOS.",
+                        "&nbsp;W1V"
+                    ],
+                    "guid": "h;~^&94FG_",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Eigenschaften von Ähnlichen Matrizen",
+                        "<img src=\"Capture d’écran 2025-03-02 à 09.06.55.png\">",
+                        "&nbsp;W1V"
+                    ],
+                    "guid": "y&<eSBKjP?",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine Norm?",
+                        "<img src=\"Capture d’écran 2025-03-11 à 12.42.03.png\" width=\"629\"><br><img src=\"Capture d’écran 2025-03-02 à 09.11.10.png\">",
+                        "&nbsp;W2V"
+                    ],
+                    "guid": "bKuT6)g3q>",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Zusammenhang zwischen verschiedenen Normen in einem endlichdimensionalen VR?",
+                        "<img src=\"Capture d’écran 2025-03-02 à 09.11.45.png\" width=\"459\">",
+                        "&nbsp;W2V"
+                    ],
+                    "guid": "C/1Mmc[?Gx",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Def. Skalarprodukt",
+                        "<img src=\"Capture d’écran 2025-03-02 à 09.15.00.png\">",
+                        "&nbsp;W2V"
+                    ],
+                    "guid": "MP5gJsdXml",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein Innenproduktraum?",
+                        "<i><span style=\"color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);\">\"In der linearen Algebra</span><span style=\"color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);\">&nbsp;und in der&nbsp;Funktionsanalysis</span><span style=\"color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);\">&nbsp;wird ein reeller</span><span style=\"color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);\">&nbsp;oder&nbsp;komplexer Vektorraum</span><span style=\"color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);\">&nbsp;auf dem ein inneres Produkt (Skalarprodukt</span><span style=\"color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);\">) definiert ist, als&nbsp;</span><b>Prähilbertraum</b><span style=\"color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);\">&nbsp;(auch&nbsp;</span>prähilbertscher Raum<span style=\"color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);\">) oder&nbsp;</span><b>Skalarproduktraum</b><span style=\"color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);\">&nbsp;(auch&nbsp;</span>Vektorraum mit innerem Produkt<span style=\"color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);\">, vereinzelt auch&nbsp;</span>Innenproduktraum<span style=\"color: rgb(32, 33, 34); background-color: rgb(255, 255, 255);\">) bezeichnet.\"<br><br></span></i><img src=\"Capture d’écran 2025-03-02 à 09.18.10.png\" width=\"332\">",
+                        "&nbsp;W2V"
+                    ],
+                    "guid": "E/%pv./`kz",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bsp. für eine vom Skalarprodukt induzierte Norm",
+                        "<img src=\"Capture d’écran 2025-03-02 à 09.19.36.png\" width=\"411\">",
+                        "&nbsp;W2V"
+                    ],
+                    "guid": "H5:x1?%Mhp",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wann wird eine Norm vom Skalarprodukt induziert?",
+                        "<img src=\"Capture d’écran 2025-03-02 à 09.21.06.png\" width=\"334\"><br><img src=\"Capture d’écran 2025-03-02 à 09.21.27.png\" width=\"503\">",
+                        "&nbsp;W2V"
+                    ],
+                    "guid": "sui|kpM`il",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine Orthonormalbasis?",
+                        "<img src=\"Capture d’écran 2025-03-07 à 12.43.58.png\" width=\"433\">",
+                        "W3V"
+                    ],
+                    "guid": "qY{6]6BUpF",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktioniert das Gram-Schmidt Orthogonalisierungsverfaren?",
+                        "Idee: Man nimmt eine beliebige Basis von&nbsp;\\(V\\). Dann finden wir mit Hilfe von orthogonaler projektion eine Basis die ONB ist.<br><br><img src=\"Capture d’écran 2025-03-07 à 12.53.42.png\" width=\"626\">",
+                        "W3V"
+                    ],
+                    "guid": "M;K?oNRd0p",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA",
+                        "procedure"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktionieren Orthogonalprojektionen?",
+                        "<img src=\"Capture d’écran 2025-03-07 à 18.47.54.png\" width=\"673\">",
+                        "W3V"
+                    ],
+                    "guid": "n/^gX3SZN(",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "formel",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wasi ist die Norm einer Matrix?",
+                        "",
+                        "Lineare Algebra (Buch)<br>6.2 Lineare Selbstabbildungen"
+                    ],
+                    "guid": "mirhT`R{W_",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "inprog",
+                        "prioC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie lässt sich eine lineare Abbildung in einem anderen KOS darstellen?",
+                        "<img src=\"Capture d’écran 2025-03-20 à 13.29.13.png\" width=\"436\">",
+                        "W5V"
+                    ],
+                    "guid": "x/<3sq~oLG",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind der Kern und das Bild einer Abbildung?",
+                        "<img src=\"Capture d’écran 2025-03-20 à 13.56.06.png\" width=\"471\"><br>Kern: Alle Vektoren, welche auf Null abgebildet werden<br>Bild: Raum aller Abgebildeten Vektroen",
+                        "W5V"
+                    ],
+                    "guid": "vb6RnfG%t7",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sätze zum Kern und Bild einer Abbildung",
+                        "<img src=\"Capture d’écran 2025-03-20 à 13.57.50.png\" width=\"392\">",
+                        "W5V"
+                    ],
+                    "guid": "u121D;9vX|",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann eine zusammengesetzte Abbildung in der linearen Algebra dargestellt werden?",
+                        "<img src=\"Capture d’écran 2025-03-20 à 13.58.41.png\" width=\"478\">",
+                        "W5V"
+                    ],
+                    "guid": "Qhshs//dHr",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann der Kern einer Abbildung bestimmt werden?",
+                        "<img src=\"Capture d’écran 2025-03-21 à 10.40.55.png\" width=\"615\"><br><br><img src=\"Capture d’écran 2025-03-21 à 10.40.08.png\" width=\"369\">",
+                        "W5U"
+                    ],
+                    "guid": "AEj5b~:?a|",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA",
+                        "procedure"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann das Bild einer Abbildung bestimmt werden?",
+                        "<img src=\"Capture d’écran 2025-03-21 à 10.42.19.png\" width=\"582\"><br><br><img src=\"Capture d’écran 2025-03-21 à 10.42.40.png\" width=\"430\">",
+                        "W5U"
+                    ],
+                    "guid": "GcJh,#19?u",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA",
+                        "procedure"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann die Abbildungsmatrix einer gegebenen Abbildung bestimmt werden?",
+                        "<img src=\"Capture d’écran 2025-03-21 à 17.10.34.png\" width=\"480\">",
+                        "W5U"
+                    ],
+                    "guid": "r$07YO`N;m",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB",
+                        "procedure"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "58d6c2ae-0810-11f0-85fc-8d496211e5e5",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Capture d’écran 2025-03-02 à 09.00.30.png",
+                "Capture d’écran 2025-03-02 à 09.02.19.png",
+                "Capture d’écran 2025-03-02 à 09.02.51.png",
+                "Capture d’écran 2025-03-02 à 09.04.05.png",
+                "Capture d’écran 2025-03-02 à 09.08.55.png",
+                "Capture d’écran 2025-03-02 à 09.09.29.png",
+                "Capture d’écran 2025-03-02 à 09.10.07.png"
+            ],
+            "name": "07. Das Eigenwertproblem",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein Eigenwert und ein Eigenvektor?",
+                        "<img src=\"Capture d’écran 2025-03-02 à 09.00.30.png\" width=\"351\">",
+                        "&nbsp;W1V"
+                    ],
+                    "guid": "vJ-{H!u)*1",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie lautet das charakteristische Polynom?",
+                        "<img src=\"Capture d’écran 2025-03-02 à 09.02.19.png\">",
+                        "&nbsp;W1V"
+                    ],
+                    "guid": "H}Nv+,<0it",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die algebraische Vielfachheit?",
+                        "<img src=\"Capture d’écran 2025-03-02 à 09.02.51.png\">",
+                        "&nbsp;W1V"
+                    ],
+                    "guid": "fYU(a?vtW#",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist das Spektrum einer Matrix?",
+                        "<img src=\"Capture d’écran 2025-03-02 à 09.04.05.png\">",
+                        "&nbsp;W1V"
+                    ],
+                    "guid": "dg~?8@9ajg",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Eigenraum?",
+                        "<img src=\"Capture d’écran 2025-03-02 à 09.08.55.png\">",
+                        "&nbsp;W1V"
+                    ],
+                    "guid": "NobrC@qd86",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die geometrische Vielfachheit?",
+                        "<img src=\"Capture d’écran 2025-03-02 à 09.09.29.png\" width=\"423\">",
+                        "&nbsp;W1V"
+                    ],
+                    "guid": "K2b$aaW??+",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zusammenhang zwischen der geometrischen und algebraischen Vielfachheit",
+                        "<img src=\"Capture d’écran 2025-03-02 à 09.10.07.png\">",
+                        "&nbsp;W1V"
+                    ],
+                    "guid": "u=sz@^W@QX",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        }
+    ],
+    "crowdanki_uuid": "58d68910-0810-11f0-85fc-8d496211e5e5",
+    "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Standard",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": false,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "ETH MAVT Semester II::Lineare Algebra II",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Vorderseite",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Rückseite",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Erklärung",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Einfach Erklärt",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}\n\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js\"></script>\n<script>hljs.highlightAll();</script>\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": null,
+                    "name": "Karte 1",
+                    "ord": 0,
+                    "qfmt": "{{Vorderseite}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}

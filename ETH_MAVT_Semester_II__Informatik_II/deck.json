@@ -1,0 +1,469 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "647416d4-0810-11f0-85fc-8d496211e5e5",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Capture d’écran 2025-03-20 à 11.38.03.png",
+                "Capture d’écran 2025-03-20 à 11.38.44.png"
+            ],
+            "name": "06. Algorithmen",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was bedeutet es eine asymptotische Laufzeitanalyse zu machen?",
+                        "uns interessiert nur die Funktion, nicht die Koeffizienten<br><br><img src=\"Capture d’écran 2025-03-20 à 11.38.03.png\" width=\"496\">",
+                        "W5V"
+                    ],
+                    "guid": "v9,g10nCRp",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Berechnungsmodelle für die Laufzeitanalyse gibt es?",
+                        "<img src=\"Capture d’écran 2025-03-20 à 11.38.44.png\" width=\"624\">",
+                        "W5V"
+                    ],
+                    "guid": "z>rG!iX~20",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        }
+    ],
+    "crowdanki_uuid": "6473e7fe-0810-11f0-85fc-8d496211e5e5",
+    "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Standard",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": false,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "Capture d’écran 2025-02-19 à 16.32.00.png",
+        "Capture d’écran 2025-03-02 à 10.33.26.png",
+        "Capture d’écran 2025-03-02 à 10.34.45.png",
+        "Capture d’écran 2025-03-02 à 10.35.35.png",
+        "Capture d’écran 2025-03-02 à 10.35.56.png",
+        "Capture d’écran 2025-03-02 à 10.36.04.png",
+        "Capture d’écran 2025-03-02 à 10.37.01.png",
+        "Capture d’écran 2025-03-02 à 10.37.36.png",
+        "Capture d’écran 2025-03-02 à 10.38.21.png",
+        "Capture d’écran 2025-03-02 à 10.38.29.png",
+        "Capture d’écran 2025-03-02 à 10.38.38.png",
+        "Capture d’écran 2025-03-02 à 10.39.39.png",
+        "Capture d’écran 2025-03-02 à 10.40.03.png",
+        "Capture d’écran 2025-03-05 à 17.21.09.png",
+        "Capture d’écran 2025-03-05 à 17.25.14.png"
+    ],
+    "name": "ETH MAVT Semester II::Informatik II",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Vorderseite",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Rückseite",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Erklärung",
+                    "ord": 2,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Einfach Erklärt",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}\n\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js\"></script>\n<script>hljs.highlightAll();</script>\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": null,
+                    "name": "Karte 1",
+                    "ord": 0,
+                    "qfmt": "{{Vorderseite}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Welche Typen von Container gibt es in Python?",
+                "<img src=\"Capture d’écran 2025-02-19 à 16.32.00.png\" width=\"563\">",
+                "W1V"
+            ],
+            "guid": "snrX^$6$&%",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie werden Operanden in Python evaluiert?",
+                "von links nach rechts (in C++ war nicht definiert)",
+                "C++ to Python Turtorial"
+            ],
+            "guid": "D(N%+UVR%m",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does not form a nested scope in Python?",
+                "loops and conditionals",
+                "C++ to Python Turtorial"
+            ],
+            "guid": "J;nmoVAy%@",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How can \"empty\" brackets be implemented in Python?",
+                "<pre><code>pass</code></pre>",
+                "C++ to Python Turtorial"
+            ],
+            "guid": "fZoBpsXn>.",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How is copying and aliasing handled in Python?",
+                "<ul><li>small/ primitive types are always copied</li><li>larger types are always aliased</li></ul>",
+                "C++ to Python Turtorial"
+            ],
+            "guid": "j:0M-b#IFI",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the \"char\" type equivalent in Python?",
+                "Python does not have a dedicated type for characters",
+                "C++ to Python Turtorial"
+            ],
+            "guid": "PvD%78>)CD",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What division operaters exist in Python?",
+                "<span style=\"color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);\">float division&nbsp;</span><code>/<br></code><span style=\"color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);\">integer division&nbsp;</span><code>//</code>",
+                "C++ to Python Turtorial"
+            ],
+            "guid": "f}[[D8?_rn",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "prioB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Why is function overloading not possible in Python?",
+                "<span style=\"color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);\">Function overloading is not possible in Python, due to the lack of static types</span>",
+                "C++ to Python Turtorial"
+            ],
+            "guid": "t/eGJ:TG28",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "prioC"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie funktioniert List Comprehension in Python?",
+                "<img src=\"Capture d’écran 2025-03-02 à 10.33.26.png\" width=\"550\">",
+                "W2V"
+            ],
+            "guid": "ib[r3Qc=N5",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "prioA"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Grundoperatoren für Python Kollektionen",
+                "<img src=\"Capture d’écran 2025-03-02 à 10.34.45.png\" width=\"521\">",
+                "W2V"
+            ],
+            "guid": "g1b2;E>f[S",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "prioB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Dict Comprehension&nbsp;",
+                "<img src=\"Capture d’écran 2025-03-02 à 10.35.35.png\" width=\"406\"><br><img src=\"Capture d’écran 2025-03-02 à 10.35.56.png\" width=\"403\"><br><img src=\"Capture d’écran 2025-03-02 à 10.36.04.png\" width=\"401\">",
+                "W2V"
+            ],
+            "guid": "h}LLO{M$D/",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "prioB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die Konsequenz davon, dass in Python \"alles\" ein Pointer ist?",
+                "<img src=\"Capture d’écran 2025-03-02 à 10.37.01.png\" width=\"495\">",
+                "W2V"
+            ],
+            "guid": "cZIjM]S~?(",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "prioB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Unterschiede zwischen Python Listen und numpy Array's",
+                "<img src=\"Capture d’écran 2025-03-02 à 10.37.36.png\" width=\"447\">",
+                "W2V"
+            ],
+            "guid": "n:qJk11+@$",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "prioB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie können numpy Arrays erstellt werden?",
+                "<img src=\"Capture d’écran 2025-03-02 à 10.38.21.png\" width=\"403\"><br><img src=\"Capture d’écran 2025-03-02 à 10.38.29.png\" width=\"400\"><br><img src=\"Capture d’écran 2025-03-02 à 10.38.38.png\" width=\"403\">",
+                "W2V"
+            ],
+            "guid": "D}tHTTLLWF",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "prioB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "numpy Array slicing",
+                "<img src=\"Capture d’écran 2025-03-02 à 10.39.39.png\">",
+                "W2V"
+            ],
+            "guid": "Ckxh!oAj4W",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "prioB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Grösse von numpy arrays ermitteln",
+                "<img src=\"Capture d’écran 2025-03-02 à 10.40.03.png\">",
+                "W2V"
+            ],
+            "guid": "PAl#{4:>8o",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "prioB"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does&nbsp;<code>enumerate(a)</code>&nbsp;do?",
+                "<img src=\"Capture d’écran 2025-03-05 à 17.21.09.png\" width=\"454\">",
+                ""
+            ],
+            "guid": "DLSG?||T/g",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is an f-String and how does it work?",
+                "<img src=\"Capture d’écran 2025-03-05 à 17.25.14.png\" width=\"652\">",
+                ""
+            ],
+            "guid": "o?8EAFe>2)",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is pandas used for?",
+                "",
+                "W3V"
+            ],
+            "guid": "r,R2Mna9qt",
+            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+            "tags": [
+                "inprog"
+            ]
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
