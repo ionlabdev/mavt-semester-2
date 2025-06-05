@@ -393,6 +393,32 @@
                     "tags": [
                         "prioB"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Auswirkungen hat eine V-Getriebe mit V<sub>plus</sub>-Verzahnung?",
+                        "<ul><li>höhere Axialkräfte</li><li>kleinere Profilüberdeckung</li><li>mehr Reibung/ Verschliess</li></ul>",
+                        "-"
+                    ],
+                    "guid": "y3B4?Lcs<5",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Auswirkungen hat eine V-Getriebe mit V<sub>minus</sub>-Verzahnung?",
+                        "<ul><li>tiefere Axialkräfte</li><li>tiefere Reibung/ Verschleiss</li><li>grössere Profilüberdeckung</li><li>schlechtere Zahnfusstragfähigkeit&nbsp;\\(\\rightarrow\\)&nbsp;weniger Moment kann übertragen werden</li></ul>",
+                        "-"
+                    ],
+                    "guid": "L&OQMeoqwL",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
                 }
             ],
             "reviewLimit": null,
@@ -556,11 +582,72 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
-            "name": "04. Federn",
+            "media_files": [
+                "Capture d’écran 2025-03-25 à 11.50.31.png",
+                "Capture d’écran 2025-03-25 à 11.51.42.png",
+                "Capture d’écran 2025-03-25 à 11.58.16.png",
+                "Capture d’écran 2025-03-25 à 14.16.28.png",
+                "Capture d’écran 2025-03-25 à 14.18.03.png"
+            ],
+            "name": "04. Toleranzen",
             "newLimit": null,
             "newLimitToday": null,
-            "notes": [],
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird das Übermass berechnet?",
+                        "<img src=\"Capture d’écran 2025-03-25 à 11.50.31.png\" width=\"556\">",
+                        "W6V"
+                    ],
+                    "guid": "Fk*hE2GkHb",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie berechnet man das wirksame Übermass?",
+                        "<img src=\"Capture d’écran 2025-03-25 à 11.51.42.png\" width=\"513\">",
+                        "W6V"
+                    ],
+                    "guid": "m1aHXvr!J^",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Zusammenhang zwischen dem Übermass und dem wirksamen Übermass?",
+                        "<img src=\"Capture d’écran 2025-03-25 à 11.58.16.png\" width=\"564\">",
+                        "W6V"
+                    ],
+                    "guid": "oxo}?Rypzq",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "formel",
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann anhand des Übermasses ein passendes Toleranzfeld auswählen?",
+                        "Bsp. mit Einheitswelle<br><img src=\"Capture d’écran 2025-03-25 à 14.16.28.png\" width=\"580\"><br><br><img src=\"Capture d’écran 2025-03-25 à 14.18.03.png\" width=\"580\">",
+                        "W6V"
+                    ],
+                    "guid": "IeB0{LJD.E",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "formel",
+                        "prioB"
+                    ]
+                }
+            ],
             "reviewLimit": null,
             "reviewLimitToday": null
         },
@@ -573,8 +660,227 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
+            "media_files": [
+                "Capture d’écran 2025-04-01 à 10.28.10.png",
+                "Capture d’écran 2025-04-01 à 10.29.04.png",
+                "Capture d’écran 2025-04-01 à 10.38.02.png",
+                "Capture d’écran 2025-04-01 à 10.40.33.png",
+                "Capture d’écran 2025-04-01 à 10.41.03.png",
+                "Capture d’écran 2025-04-01 à 11.24.47.png",
+                "Capture d’écran 2025-04-01 à 11.26.58.png",
+                "Capture d’écran 2025-04-01 à 11.33.14.png",
+                "Capture d’écran 2025-04-01 à 11.34.12.png",
+                "Capture d’écran 2025-04-01 à 11.44.08.png",
+                "Capture d’écran 2025-04-01 à 11.44.41.png",
+                "Capture d’écran 2025-04-01 à 11.48.18.png"
+            ],
+            "name": "07. Federn",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind typische Anwendungsbereiche von Federn?",
+                        "<img src=\"Capture d’écran 2025-04-01 à 10.28.10.png\" width=\"567\">",
+                        "W7V"
+                    ],
+                    "guid": "w:(e_eozQl",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche typen von Federn gibt es?",
+                        "<img src=\"Capture d’écran 2025-04-01 à 10.29.04.png\" width=\"669\">",
+                        "W7V"
+                    ],
+                    "guid": "PqXbuY5Vrr",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Federrate?",
+                        "\"Federkonstante der Technik\", weil nicht immer konstant sein muss",
+                        "W7V"
+                    ],
+                    "guid": "x%b+#L0>]P",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Kennwerte iener Feder?",
+                        "<img src=\"Capture d’écran 2025-04-01 à 10.38.02.png\">",
+                        "W7V"
+                    ],
+                    "guid": "DZ0kp<TPZC",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie verhält sich die Federrate der Schraubfeder im Vergleich zu ihren Kennwerten?",
+                        "<img src=\"Capture d’écran 2025-04-01 à 10.40.33.png\" width=\"334\"><img src=\"Capture d’écran 2025-04-01 à 10.41.03.png\" width=\"599\">",
+                        "W7V"
+                    ],
+                    "guid": "qXM87Knr0L",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "formel",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird eine Druckfeder belastet?",
+                        "auf Torsion",
+                        "W7V"
+                    ],
+                    "guid": "A@;$Ru&&6k",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was bedeutet auf Block geschaltet werden?",
+                        "Wenn sich die Federwindungen aufeinanderlegen und desshalb nicht mehr federn",
+                        "W7V"
+                    ],
+                    "guid": "F=/@]{/Jgk",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Art von Kennlineinverläufen können Federn vorweisen?",
+                        "<img src=\"Capture d’écran 2025-04-01 à 11.24.47.png\" width=\"603\">",
+                        "W7V"
+                    ],
+                    "guid": "x$&)r1e{iU",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird die Federarbeit berechnet?",
+                        "<img src=\"Capture d’écran 2025-04-01 à 11.26.58.png\" width=\"506\">",
+                        "W7V"
+                    ],
+                    "guid": "GfI>j[#8p&",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "formel",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie verhält sich die Federrate bei einer Parallelschaltung?",
+                        "<img src=\"Capture d’écran 2025-04-01 à 11.33.14.png\" width=\"591\">",
+                        "W7V"
+                    ],
+                    "guid": "kso<xovhk~",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "formel",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie verhält sich die Federrate bei einer Serieschaltung?",
+                        "<img src=\"Capture d’écran 2025-04-01 à 11.34.12.png\" width=\"594\">",
+                        "W7V"
+                    ],
+                    "guid": "w]Jr#ttweE",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "formel",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine Parallelschaltung bei Tellerfedern?",
+                        "<img src=\"Capture d’écran 2025-04-01 à 11.44.08.png\" width=\"647\">",
+                        "W7V"
+                    ],
+                    "guid": "zNrFtScJWq",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "formel",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine Serieschaltung bei Tellerfedern?",
+                        "<img src=\"Capture d’écran 2025-04-01 à 11.44.41.png\" width=\"573\"><br>bereits eine Kombination von Reihen und Parallelschaltung dargestellt",
+                        "W7V"
+                    ],
+                    "guid": "BJ!y&w.&4x",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "formel",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie sieht die Federkennlinie bei Drehfedern aus?",
+                        "<img src=\"Capture d’écran 2025-04-01 à 11.48.18.png\" width=\"705\">",
+                        "W7V"
+                    ],
+                    "guid": "p*-Z&p+RnK",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "bdfa8d9e-41ec-11f0-86e8-81751b0a85a3",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
             "media_files": [],
-            "name": "05. Schrauben und Kupplungen",
+            "name": "08. Schrauben",
             "newLimit": null,
             "newLimitToday": null,
             "notes": [],
@@ -584,68 +890,162 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "852d0688-0810-11f0-85fc-8d496211e5e5",
+            "crowdanki_uuid": "bdfa9b36-41ec-11f0-86e8-81751b0a85a3",
             "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
-            "name": "06. Fertigung & Produktion",
+            "media_files": [
+                "Capture d’écran 2025-05-18 à 16.53.14.png",
+                "Capture d’écran 2025-05-18 à 16.54.21.png",
+                "Capture d’écran 2025-05-18 à 16.56.56.png",
+                "Capture d’écran 2025-05-18 à 16.57.29.png",
+                "Capture d’écran 2025-05-18 à 16.59.41.png",
+                "Capture d’écran 2025-05-18 à 17.09.42.png",
+                "Capture d’écran 2025-05-18 à 17.11.37.png",
+                "Capture d’écran 2025-05-18 à 17.12.16.png",
+                "Capture d’écran 2025-05-18 à 17.12.37.png",
+                "Capture d’écran 2025-05-18 à 17.14.11.png",
+                "Capture d’écran 2025-05-18 à 17.14.54.png",
+                "Capture d’écran 2025-05-18 à 17.19.05.png",
+                "Capture d’écran 2025-05-18 à 17.19.43.png"
+            ],
+            "name": "12. Elektromotoren",
             "newLimit": null,
             "newLimitToday": null,
-            "notes": [],
-            "reviewLimit": null,
-            "reviewLimitToday": null
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "852d1650-0810-11f0-85fc-8d496211e5e5",
-            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 0,
-            "extendRev": 0,
-            "media_files": [],
-            "name": "07. Mechanische Mechanismen",
-            "newLimit": null,
-            "newLimitToday": null,
-            "notes": [],
-            "reviewLimit": null,
-            "reviewLimitToday": null
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "852d25d2-0810-11f0-85fc-8d496211e5e5",
-            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 0,
-            "extendRev": 0,
-            "media_files": [],
-            "name": "08. Elektromotoren",
-            "newLimit": null,
-            "newLimitToday": null,
-            "notes": [],
-            "reviewLimit": null,
-            "reviewLimitToday": null
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "852d34be-0810-11f0-85fc-8d496211e5e5",
-            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 0,
-            "extendRev": 0,
-            "media_files": [],
-            "name": "09. Entwicklung",
-            "newLimit": null,
-            "newLimitToday": null,
-            "notes": [],
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Aus welchen Teilen besteht ein DC-Motor?",
+                        "<img src=\"Capture d’écran 2025-05-18 à 16.53.14.png\" width=\"653\">",
+                        "W12V"
+                    ],
+                    "guid": "LBMhxsc$4*",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktioniert ein DC-Motor?",
+                        "<img src=\"Capture d’écran 2025-05-18 à 16.54.21.png\" width=\"659\">",
+                        "W12V"
+                    ],
+                    "guid": "r,[N}=R+u^",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie lauten die elektromechanischen Motorkonstanten?",
+                        "<img src=\"Capture d’écran 2025-05-18 à 16.56.56.png\" width=\"537\">",
+                        "W12V"
+                    ],
+                    "guid": "#RNF.B9<*",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welcher Zusammenhang besteht zwischen den Motorkonstanten?",
+                        "<img src=\"Capture d’écran 2025-05-18 à 16.57.29.png\" width=\"611\">",
+                        "W12V"
+                    ],
+                    "guid": "u{*%~t}{cH",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie sieht die theoretische und die angepasste Drehzahlkennlinie aus?",
+                        "<img src=\"Capture d’écran 2025-05-18 à 16.59.41.png\" width=\"727\"><br><img src=\"Capture d’écran 2025-05-18 à 17.09.42.png\" width=\"819\">",
+                        "W12V"
+                    ],
+                    "guid": "vS;bN0i<!B",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In welchen Bereichen kann der DC-Betriebspunkt gewählt werden?",
+                        "<img src=\"Capture d’écran 2025-05-18 à 17.11.37.png\" width=\"525\"><br><img src=\"Capture d’écran 2025-05-18 à 17.12.16.png\" width=\"521\"><br><img src=\"Capture d’écran 2025-05-18 à 17.12.37.png\" width=\"514\">",
+                        "W12V"
+                    ],
+                    "guid": "HoOJ3;LP&s",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktioniert ein Servo?",
+                        "<img src=\"Capture d’écran 2025-05-18 à 17.14.11.png\" width=\"436\"><br><img src=\"Capture d’écran 2025-05-18 à 17.14.54.png\" width=\"436\"><br>- Stirnradgetriebe hat hohe Übersetzung (270)<br>- sehr billig<br>- wenn im Betrieb: Drehen automatisch zu vorgegebem Winkel zurück",
+                        "W12V"
+                    ],
+                    "guid": "A1b./.b.^p",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind die Eigenschaften von Schrittmotoren?",
+                        "<ul><li>können zur Positionierung verwendet werden</li><li>können kontinuierliche Drehbewegung ausführen</li><li>verfügen über ein Haltemoment an einem bestimmten Winkel</li></ul>",
+                        "W12V"
+                    ],
+                    "guid": "B{=Ic{$WI,",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie ist ein Schrittmotor aufgebaut?",
+                        "<img src=\"Capture d’écran 2025-05-18 à 17.19.05.png\" width=\"633\"><br><img src=\"Capture d’écran 2025-05-18 à 17.19.43.png\" width=\"636\">",
+                        "W12V"
+                    ],
+                    "guid": "E:ZX%;KvU?",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Betriebsarten gibt es für den Stepper-Motor?",
+                        "<ul><li>Unipolear Vollschrittbetrien</li><li>Bipolarer Vollschrittbetrieb</li><li>Unipolarer Halbschrittbetrieb</li><li>Bipolarer Halbschrittbetrieb</li></ul>",
+                        "W12V"
+                    ],
+                    "guid": "mW32vM9i&G",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                }
+            ],
             "reviewLimit": null,
             "reviewLimitToday": null
         }
@@ -698,7 +1098,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 20
+                "perDay": 200
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -750,7 +1150,7 @@
                     "preventDeletion": false,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false,
+                    "sticky": true,
                     "tag": null
                 },
                 {

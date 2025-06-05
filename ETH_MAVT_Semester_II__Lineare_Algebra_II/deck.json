@@ -319,7 +319,13 @@
                 "Capture d’écran 2025-03-02 à 09.04.05.png",
                 "Capture d’écran 2025-03-02 à 09.08.55.png",
                 "Capture d’écran 2025-03-02 à 09.09.29.png",
-                "Capture d’écran 2025-03-02 à 09.10.07.png"
+                "Capture d’écran 2025-03-02 à 09.10.07.png",
+                "Capture d’écran 2025-04-04 à 10.28.49.png",
+                "Capture d’écran 2025-04-04 à 10.29.40.png",
+                "Capture d’écran 2025-04-04 à 10.31.54.png",
+                "Capture d’écran 2025-04-04 à 10.32.56.png",
+                "Capture d’écran 2025-04-04 à 10.34.34.png",
+                "Capture d’écran 2025-04-04 à 10.36.57.png"
             ],
             "name": "07. Das Eigenwertproblem",
             "newLimit": null,
@@ -416,6 +422,59 @@
                     "tags": [
                         "prioB"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine Eigenbasis?",
+                        "<img src=\"Capture d’écran 2025-04-04 à 10.28.49.png\" width=\"523\">",
+                        "W7U"
+                    ],
+                    "guid": "w+_0l+hk!l",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind einfache/ halbeinfache Matrizen?",
+                        "<img src=\"Capture d’écran 2025-04-04 à 10.29.40.png\" width=\"631\">",
+                        "W7U"
+                    ],
+                    "guid": "rL$+~07B5$",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktioniert das Diagonalisieren?",
+                        "<img src=\"Capture d’écran 2025-04-04 à 10.31.54.png\" width=\"493\"><br><br>Bevor diagonalisiert: überprüfen, ob halbeinfach - ansonsten gar nicht diagonaliserbar.<br><br><img src=\"Capture d’écran 2025-04-04 à 10.32.56.png\" width=\"482\"><br><br><img src=\"Capture d’écran 2025-04-04 à 10.34.34.png\" width=\"462\">",
+                        "W7U"
+                    ],
+                    "guid": "DE0^!][#fe",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind symetrische Matrizen?",
+                        "<img src=\"Capture d’écran 2025-04-04 à 10.36.57.png\" width=\"530\">",
+                        "W7U"
+                    ],
+                    "guid": "sC1x(z`H1{",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
                 }
             ],
             "reviewLimit": null,
@@ -470,7 +529,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 20
+                "perDay": 200
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -522,7 +581,7 @@
                     "preventDeletion": false,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false,
+                    "sticky": true,
                     "tag": null
                 },
                 {
