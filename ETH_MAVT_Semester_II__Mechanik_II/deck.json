@@ -234,7 +234,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Berechnung der Normalspannung und Schubspannung abhängig vom Spannungsvektor",
+                        "Berechnung der Normalspannung und Schubspannung (Spannungsvektor und Spannungstensor)",
                         "<img src=\"Capture d’écran 2025-02-26 à 15.46.39.png\" width=\"859\"><br><img src=\"Capture d’écran 2025-02-26 à 15.45.09.png\" width=\"569\">",
                         "V2V2"
                     ],
@@ -460,7 +460,14 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
-                "Capture d’écran 2025-03-19 à 11.46.14.png"
+                "Capture d’écran 2025-03-19 à 11.46.14.png",
+                "Capture d’écran 2025-03-24 à 11.49.17.png",
+                "Capture d’écran 2025-03-24 à 11.51.23.png",
+                "Capture d’écran 2025-03-26 à 10.38.59.png",
+                "Capture d’écran 2025-03-26 à 10.40.11.png",
+                "Capture d’écran 2025-03-26 à 11.36.36.png",
+                "Capture d’écran 2025-03-26 à 13.15.22.png",
+                "Capture d’écran 2025-03-26 à 13.17.47.png"
             ],
             "name": "03. Linear elastisches isotropes Stoffverhalten",
             "newLimit": null,
@@ -477,6 +484,286 @@
                     "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
                     "tags": [
                         "definition",
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie sind die Matrizen zur Beschreibung der linear elastischen isotropen Stoffgesetze strukturiert?",
+                        "<img src=\"Capture d’écran 2025-03-24 à 11.49.17.png\" width=\"668\">",
+                        "W6V1"
+                    ],
+                    "guid": "Co/k&yPDTM",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "formel",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie lauten die Stoffgesetze für eindimensionales linear elastisches Stoffverhalten?",
+                        "<img src=\"Capture d’écran 2025-03-24 à 11.51.23.png\" width=\"873\">",
+                        "W6V1"
+                    ],
+                    "guid": "p%?%NHvn]P",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "formel",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Form hat die Nachgiebigkeitsmatrix?",
+                        "<img src=\"Capture d’écran 2025-03-26 à 10.38.59.png\" width=\"536\">",
+                        "W6V2"
+                    ],
+                    "guid": "d#n1g$if%O",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Form hat die Steifigkeitsmatrix?",
+                        "<img src=\"Capture d’écran 2025-03-26 à 10.40.11.png\" width=\"573\">",
+                        "W6V2"
+                    ],
+                    "guid": "AhYp3LO*x+",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann die Problemstellung der Koninuumsmechanik grundsätzlich gelöst werden?",
+                        "<img src=\"Capture d’écran 2025-03-26 à 11.36.36.png\" width=\"690\">",
+                        "W6V2"
+                    ],
+                    "guid": "DkU:9BnQs7",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Herleitung der Allgemeinen Stoffgesetze",
+                        "<ol><li>Herleitung der Stoffgesetze für eindimensionalen Fall\n     (Zug- und Druckversuche)</li>\n<li>Durch Betrachtung\n     verschiedener Schnittflächen für 3-D Fall die Matrix folgern, welche die\n     Normalverzerrung im 3D-Fall beschreibt</li>\n<li>Durch KOTransfo.\n     die vollständige Beschreibung der Normalverzerrung und Schubverzerrung\n     herleiten</li></ol><div><img src=\"Capture d’écran 2025-03-26 à 13.15.22.png\" width=\"603\"><br></div>",
+                        "W5V3"
+                    ],
+                    "guid": "B-W9W:1;&n",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Idee hinter der Herleitung der Gleichgewichtsbedingungen der Spannung?",
+                        "\n<div>\n<div>\n<div>Vorgehen:</div>\n<ol>\n<li>Skizze, Allg. Kräfte die auf einen Materialpunkt\n     einzeichnen</li>\n<li>Kräftegleichgewicht\n     aufstellen, Kräfte werden anhand der Funktionen der Spannungsverteilung\n     über die entsprechenden Flächen</li>\n<li>Die Funktionen für\n     die Spannungsverteilung werden anhand der Taylorentwicklung dargestellt</li>\n<li>Das Ganze\n     Gleichgewicht wird vereinfacht um neue Bezeihungen zu erhalten</li></ol>\n<div>.<img src=\"Capture d’écran 2025-03-26 à 13.17.47.png\" width=\"614\"></div>\n</div>\n</div>",
+                        "W6V2"
+                    ],
+                    "guid": "DB[9UXC%:S",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioC"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ae3d4d2e-41ec-11f0-86e8-81751b0a85a3",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "05. Spezielle Biegung",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ae3d5cc4-41ec-11f0-86e8-81751b0a85a3",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Capture d’écran 2025-04-02 à 10.52.02.png",
+                "Capture d’écran 2025-04-02 à 10.52.51.png",
+                "Capture d’écran 2025-04-02 à 11.46.06.png",
+                "Capture d’écran 2025-04-09 à 11.01.54.png"
+            ],
+            "name": "06. Allgemeine Biegung",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist allgemeine Biegung?",
+                        "Superposition der Biegungen in Koordinatenachsen<br><br><img src=\"Capture d’écran 2025-04-02 à 10.52.02.png\" width=\"798\"><br><br><img src=\"Capture d’écran 2025-04-02 à 10.52.51.png\" width=\"804\">",
+                        "W7V2"
+                    ],
+                    "guid": "I&@(;luDwW",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "formel",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie sind die Hauptachsen definiert?",
+                        "<img src=\"Capture d’écran 2025-04-02 à 11.46.06.png\" width=\"723\">",
+                        "W7V2"
+                    ],
+                    "guid": "h)x^MPr6=q",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Berechnung der Schubspannung in der Balkentheorie als Resultat einer Querkraft?",
+                        "<img src=\"Capture d’écran 2025-04-09 à 11.01.54.png\" width=\"1150\">",
+                        "W8V2"
+                    ],
+                    "guid": "cY:^u0jP?,",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "formel",
+                        "prioB"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "ae3d706a-41ec-11f0-86e8-81751b0a85a3",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Capture d’écran 2025-05-14 à 11.22.53.png",
+                "Capture d’écran 2025-05-14 à 13.10.46.png",
+                "Capture d’écran 2025-05-14 à 13.15.52.png",
+                "Capture d’écran 2025-05-14 à 13.26.14.png",
+                "Capture d’écran 2025-05-14 à 13.29.16.png"
+            ],
+            "name": "08. Arbeit und Deformationsenergie",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Leistung?",
+                        "<img src=\"Capture d’écran 2025-05-14 à 11.22.53.png\" width=\"240\"><br>\\(\\underline{\\dot{u}}\\)&nbsp;ist die Geschwindigkeit des Kraftangriffspunktes",
+                        "W12V1"
+                    ],
+                    "guid": "hD%p-fgK#j",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist Arbeit?",
+                        "<img src=\"Capture d’écran 2025-05-14 à 13.10.46.png\" width=\"428\">",
+                        "W12V1"
+                    ],
+                    "guid": "Hcy#!TG8>p",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Arbeitsgleichung elastischer Körper",
+                        "\\(U = W_{ext}\\)<br>Die Deformationsenergie&nbsp;\\(U\\)&nbsp;ist gleich der von den äusseren Lasten verrichtete Arbeit&nbsp;\\(W_{ext}\\). Diese Arbeit wird als Deformationsenergie gespeichert.",
+                        "W12V1"
+                    ],
+                    "guid": "h45|.Mf06s",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist/ entspricht die Deformationsenergie?",
+                        "<img src=\"Capture d’écran 2025-05-14 à 13.15.52.png\" width=\"896\">",
+                        "W12V1"
+                    ],
+                    "guid": "APUBt;}n~!",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Leistung der Spannungen pro Volumen",
+                        "<img src=\"Capture d’écran 2025-05-14 à 13.26.14.png\" width=\"967\">",
+                        "W12V2"
+                    ],
+                    "guid": "JByA9^<cSW",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Formel: Deformationsenergie der allgemeinen Biegung",
+                        "<img src=\"Capture d’écran 2025-05-14 à 13.29.16.png\" width=\"761\">",
+                        "W12V2"
+                    ],
+                    "guid": "qFuBO*QIDQ",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "formel",
                         "prioB"
                     ]
                 }
@@ -533,7 +820,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 20
+                "perDay": 200
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -585,7 +872,7 @@
                     "preventDeletion": false,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false,
+                    "sticky": true,
                     "tag": null
                 },
                 {

@@ -5,7 +5,7 @@
             "__type__": "Deck",
             "children": [],
             "crowdanki_uuid": "35388436-0810-11f0-85fc-8d496211e5e5",
-            "deck_config_uuid": "35388526-0810-11f0-85fc-8d496211e5e5",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -215,12 +215,13 @@
                     "__type__": "Note",
                     "fields": [
                         "Lösungsvorgehen:<br><b>geg.:</b> zwei Funktionen<br><b>ges.: </b>existiert gemeinsame Stammfunktion?",
-                        "<div style=\"text-align: left;\">Lösungsmöglichkeiten: Am \"Kreislauf\" der IB orientieren</div><div style=\"text-align: left;\">&nbsp;&nbsp;<img src=\"Capture d’écran 2025-02-20 à 17.41.31.png\" width=\"320\"></div><div style=\"text-align: left;\"><b>Variante 1:</b></div><ol><li style=\"text-align: left;\">IB überprüfen</li><li style=\"text-align: left;\"><div style=\"text-align: left;\">Integrieren von&nbsp;</div><div style=\"text-align: left;\"> </div>\\(\\varphi\\)&nbsp;und&nbsp;\\(\\psi\\)&nbsp;</li><li style=\"text-align: left;\">Reultate miteinander vergleiche&nbsp;</li></ol><b><div style=\"text-align: left;\"><b>Variante 2:</b></div></b><ol><li>IB überprüfen</li><li>\\(\\varphi\\)&nbsp;oder&nbsp;\\(\\psi\\)&nbsp;integrieren&nbsp;\\(\\rightarrow\\)&nbsp;erhält Stammfunktion +&nbsp;\\(v(x)\\)&nbsp;oder&nbsp;\\(v(y)\\)<br></li><li>auf der anderen Seite (Kreislauf) ableiten</li><li>Die Ableitung mit&nbsp;\\(\\psi\\)&nbsp;bzw.&nbsp;\\(\\varphi\\)&nbsp;vergleichen, um&nbsp;\\(v(y)\\)&nbsp;bzw.&nbsp;\\(v(x)\\)&nbsp;zu bestimmen</li></ol>",
+                        "<div style=\"text-align: left;\">Lösungsmöglichkeiten: Am \"Kreislauf\" der IB orientieren</div><div style=\"text-align: left;\">&nbsp;&nbsp;<img src=\"Capture d’écran 2025-02-20 à 17.41.31.png\" width=\"320\"></div><div style=\"text-align: left;\"><b>Variante 1:</b></div><ol><li style=\"text-align: left;\">IB überprüfen</li><li style=\"text-align: left;\"><div style=\"text-align: left;\">Integrieren von&nbsp;\\(\\varphi\\)&nbsp;und&nbsp;\\(\\psi\\)&nbsp;</div></li><li style=\"text-align: left;\">Reultate miteinander vergleiche&nbsp;</li></ol><b><div style=\"text-align: left;\"><b>Variante 2:</b></div></b><ol><li>IB überprüfen</li><li>\\(\\varphi\\)&nbsp;oder&nbsp;\\(\\psi\\)&nbsp;integrieren&nbsp;\\(\\rightarrow\\)&nbsp;erhält Stammfunktion +&nbsp;\\(v(x)\\)&nbsp;oder&nbsp;\\(v(y)\\)<br></li><li>auf der anderen Seite (Kreislauf) ableiten</li><li>Die Ableitung mit&nbsp;\\(\\psi\\)&nbsp;bzw.&nbsp;\\(\\varphi\\)&nbsp;vergleichen, um&nbsp;\\(v(y)\\)&nbsp;bzw.&nbsp;\\(v(x)\\)&nbsp;zu bestimmen</li></ol>",
                         "W1V2"
                     ],
                     "guid": "l6=|Ac<v(&",
                     "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
                     "tags": [
+                        "prioB",
                         "procedure"
                     ]
                 },
@@ -280,13 +281,15 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Trick Nennerumformung einer Definition, durch hinzufügen -1",
+                        "Trick Zählerumformung einer Definition, durch hinzufügen -1",
                         "<img src=\"Capture d’écran 2025-02-20 à 16.50.37.png\" width=\"351\">",
                         "W1V3"
                     ],
                     "guid": "u0!xOp{zKE",
                     "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
-                    "tags": []
+                    "tags": [
+                        "prioC"
+                    ]
                 },
                 {
                     "__type__": "Note",
@@ -436,7 +439,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Welcher Zusammenhang besteht zwischen dem Gradienten und der Niveaulinie/ Niveaufläche?",
-                        "Orthogonalität:<br>Der Gradient ist der nOmralenvektror auf der Niveaufläche, senkrecht zur Niveaulinie.",
+                        "Orthogonalität:<br>Der Gradient ist der orthogonalvektor auf der Niveaufläche, senkrecht zur Niveaulinie.",
                         "W3V1"
                     ],
                     "guid": "Fj%sGwK%Lp",
@@ -591,7 +594,7 @@
             "__type__": "Deck",
             "children": [],
             "crowdanki_uuid": "3538aaba-0810-11f0-85fc-8d496211e5e5",
-            "deck_config_uuid": "3538ab64-0810-11f0-85fc-8d496211e5e5",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -692,7 +695,16 @@
             "extendRev": 0,
             "media_files": [
                 "Capture d’écran 2025-03-21 à 08.24.16.png",
-                "Capture d’écran 2025-03-21 à 09.37.24.png"
+                "Capture d’écran 2025-03-21 à 09.37.24.png",
+                "Capture d’écran 2025-03-26 à 09.58.26.png",
+                "Capture d’écran 2025-03-28 à 09.26.19.png",
+                "Capture d’écran 2025-04-06 à 17.30.50.png",
+                "Capture d’écran 2025-04-06 à 17.31.17.png",
+                "Capture d’écran 2025-04-06 à 18.17.24.png",
+                "Capture d’écran 2025-04-08 à 14.51.28.png",
+                "Capture d’écran 2025-04-11 à 09.45.39.png",
+                "Capture d’écran 2025-04-11 à 09.46.13.png",
+                "Capture d’écran 2025-04-11 à 09.47.33.png"
             ],
             "name": "VI. Vektoranalysis",
             "newLimit": null,
@@ -725,6 +737,360 @@
                         "definition",
                         "prioA"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[M] Was sind Parameterlinien?",
+                        "<img src=\"Capture d’écran 2025-03-26 à 09.58.26.png\" width=\"808\"><br><br>Eine Art Koordinatensystem/ Koordinatenlinien für auf der Oberfläche.",
+                        "W6V1"
+                    ],
+                    "guid": "D=]]z.4Q%c",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie brechnet man den Oberflächeninhalt?",
+                        "<img src=\"Capture d’écran 2025-03-28 à 09.26.19.png\" width=\"611\">",
+                        "W6V2"
+                    ],
+                    "guid": "AZ$VK2D?(0",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Fluss eines Vektorfeldes?",
+                        "<img src=\"Capture d’écran 2025-04-06 à 17.30.50.png\" width=\"724\"><br><br><img src=\"Capture d’écran 2025-04-06 à 17.31.17.png\" width=\"728\">",
+                        "W7V1"
+                    ],
+                    "guid": "T2?GF6#($",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was misst die Divergenz?&nbsp;",
+                        "Fluss pro Volumen",
+                        "W7V2"
+                    ],
+                    "guid": "Egs@b;Pl)Y",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Eigenschaft hat die Divergenz?",
+                        "<img src=\"Capture d’écran 2025-04-06 à 18.17.24.png\" width=\"816\">",
+                        "W7V2"
+                    ],
+                    "guid": "v(%,97b#~)",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Böschungsflächen?",
+                        "<img src=\"Capture d’écran 2025-04-08 à 14.51.28.png\" width=\"557\">",
+                        "W6V2"
+                    ],
+                    "guid": "DjB{HJ<bbP",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie wird die Arbeit entlang eines Weges berechnet?",
+                        "<img src=\"Capture d’écran 2025-04-11 à 09.45.39.png\" width=\"639\">",
+                        "W8V1"
+                    ],
+                    "guid": "n&]mj]*8}n",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wann ist die Arbeit entlang des Randes einer beliebigen Fläche S in einem Vektorfeld immer Null?",
+                        "<img src=\"Capture d’écran 2025-04-11 à 09.46.13.png\" width=\"961\">",
+                        "W8V1"
+                    ],
+                    "guid": "vot=/Rq6gV",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was bedeutet&nbsp;\\(\\text{rot}(\\vec v) \\cdot \\vec n\\)?",
+                        "<img src=\"Capture d’écran 2025-04-11 à 09.47.33.png\" width=\"865\">",
+                        "W8V2"
+                    ],
+                    "guid": "kpz+LMF?hV",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Rotationseigenschaft haben Potentialfelder?",
+                        "sind rotationsfrei",
+                        "W9V1"
+                    ],
+                    "guid": "hA)iUE%70=",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "82d8b83a-41ec-11f0-86e8-81751b0a85a3",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Capture d’écran 2025-05-06 à 16.22.04.png",
+                "Capture d’écran 2025-05-07 à 08.17.52.png",
+                "Capture d’écran 2025-05-07 à 08.51.03.png",
+                "Capture d’écran 2025-05-07 à 09.03.18.png",
+                "Capture d’écran 2025-05-07 à 19.48.29.png",
+                "Capture d’écran 2025-05-07 à 19.52.44.png",
+                "Capture d’écran 2025-05-07 à 19.57.49.png",
+                "Capture d’écran 2025-05-09 à 08.36.04.png",
+                "Capture d’écran 2025-05-09 à 08.37.33.png",
+                "Capture d’écran 2025-05-09 à 08.41.11.png",
+                "Capture d’écran 2025-05-09 à 09.39.32.png",
+                "Capture d’écran 2025-05-16 à 11.11.56.png"
+            ],
+            "name": "VII. Gewöhnliche DGL",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Allgemeine Lösung einer Differentialgleichung?",
+                        "<img src=\"Capture d’écran 2025-05-06 à 16.22.04.png\" width=\"538\">",
+                        "W9V2"
+                    ],
+                    "guid": "uc=*fIDhIf",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie lautet der Exisstenzsatz der DGL?",
+                        "<img src=\"Capture d’écran 2025-05-07 à 08.17.52.png\" width=\"667\">",
+                        "W10V1"
+                    ],
+                    "guid": "s1xs!kRS-N",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wann ist eine einparametrige Kurvenschar regulär?",
+                        "<img src=\"Capture d’écran 2025-05-07 à 08.51.03.png\" width=\"575\">",
+                        "W10V1"
+                    ],
+                    "guid": "cb{w$e*+K5",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wann ist eine DGL separierbar?",
+                        "<img src=\"Capture d’écran 2025-05-07 à 09.03.18.png\" width=\"701\">",
+                        "W10V2"
+                    ],
+                    "guid": "wF{TT:f`b%",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine lineare Differentialgleichung 1. Ordnung?",
+                        "<img src=\"Capture d’écran 2025-05-07 à 19.48.29.png\" width=\"807\">",
+                        "W11V1"
+                    ],
+                    "guid": "v!8qi$[[q/",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine homogene und eine inhomogene DGL?",
+                        "<img src=\"Capture d’écran 2025-05-07 à 19.52.44.png\" width=\"569\">",
+                        "W11V1"
+                    ],
+                    "guid": "OU-)+*O^zt",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die allgemeine Lösung einer inhomogenen linearen DGL?",
+                        "<img src=\"Capture d’écran 2025-05-07 à 19.57.49.png\" width=\"714\">",
+                        "W11V1"
+                    ],
+                    "guid": "rF:.(9cB4z",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktioniert der Ansatz von Lagrange um LDGL zu lösen?",
+                        "<ol><li>Bestimmen der Lösung der homogenen LDGL</li>\n<li>Ersetzen die\n     Konstante durch eine Funktion und bezeichnen es als eine partikuläre\n     Lösung der inhomogenen LDGL</li>\n<li>Ableitung davon\n     muss gleich sein wie die LDGL (bei LDGL ersetzt die spezielle Lösung\n     weider durch einen Ausdruck der allgemeinen Lösung)</li>\n<li>Finde Gamma und\n     integriere</li></ol>",
+                        "W11V1"
+                    ],
+                    "guid": "K@!aKH1{3W",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB",
+                        "procedure"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Berechnung der Schar der Niveaulinien",
+                        "<img src=\"Capture d’écran 2025-05-09 à 08.36.04.png\">",
+                        "W11V2"
+                    ],
+                    "guid": "D}iCpzTgwQ",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "formel",
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine exakte DGL?",
+                        "<img src=\"Capture d’écran 2025-05-09 à 08.37.33.png\" width=\"686\">",
+                        "W11V2"
+                    ],
+                    "guid": "eNLwVg3=69",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Eigenschaften der Lösungen von linearen DGL",
+                        "<img src=\"Capture d’écran 2025-05-09 à 08.41.11.png\">",
+                        "W11V1"
+                    ],
+                    "guid": "I&y!rv^Z]~",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Zusammenhang zwischen Niveaulinien und Feldlinien?",
+                        "Niveaulinien&nbsp;\\(\\perp\\)&nbsp;Feldlinien<br>\\(\\rightarrow\\)&nbsp;Steigung Niveaulinien&nbsp;\\(n\\)&nbsp;vs. Steigung Feldlinien&nbsp;\\(m\\):&nbsp;\\(n = -\\frac{1}m\\)<br>\\(\\rightarrow\\)&nbsp;Feldlinien sind <i>Orthogonaltrajektorien</i> der Niveaulinien",
+                        "W11V2"
+                    ],
+                    "guid": "yK>kn@hOI(",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie brechnet man die Orthogonaltrajektorien einer DGL?",
+                        "<img src=\"Capture d’écran 2025-05-09 à 09.39.32.png\" width=\"499\">",
+                        "W11V2"
+                    ],
+                    "guid": "M;<4|vW8cm",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist eine Enveloppe?",
+                        "<img src=\"Capture d’écran 2025-05-16 à 11.11.56.png\" width=\"379\">",
+                        "W12V1"
+                    ],
+                    "guid": "FK_$iVjPF<",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
                 }
             ],
             "reviewLimit": null,
@@ -732,218 +1098,8 @@
         }
     ],
     "crowdanki_uuid": "353870c2-0810-11f0-85fc-8d496211e5e5",
-    "deck_config_uuid": "35387518-0810-11f0-85fc-8d496211e5e5",
+    "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
     "deck_configurations": [
-        {
-            "__type__": "DeckConfig",
-            "answerAction": 0,
-            "autoplay": true,
-            "buryInterdayLearning": false,
-            "crowdanki_uuid": "35387518-0810-11f0-85fc-8d496211e5e5",
-            "desiredRetention": 0.9,
-            "dyn": false,
-            "easyDaysPercentages": [
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0
-            ],
-            "fsrsParams5": [],
-            "fsrsWeights": [],
-            "ignoreRevlogsBeforeDate": "",
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Standard",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 1,
-                "perDay": 20
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "questionAction": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
-            },
-            "reviewOrder": 0,
-            "secondsToShowAnswer": 0.0,
-            "secondsToShowQuestion": 0.0,
-            "sm2Retention": 0.9,
-            "stopTimerOnAnswer": false,
-            "timer": 0,
-            "waitForAudio": false,
-            "weightSearch": ""
-        },
-        {
-            "__type__": "DeckConfig",
-            "answerAction": 0,
-            "autoplay": true,
-            "buryInterdayLearning": false,
-            "crowdanki_uuid": "35388526-0810-11f0-85fc-8d496211e5e5",
-            "desiredRetention": 0.9,
-            "dyn": false,
-            "easyDaysPercentages": [
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0
-            ],
-            "fsrsParams5": [],
-            "fsrsWeights": [],
-            "ignoreRevlogsBeforeDate": "",
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Standard",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 1,
-                "perDay": 20
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "questionAction": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
-            },
-            "reviewOrder": 0,
-            "secondsToShowAnswer": 0.0,
-            "secondsToShowQuestion": 0.0,
-            "sm2Retention": 0.9,
-            "stopTimerOnAnswer": false,
-            "timer": 0,
-            "waitForAudio": false,
-            "weightSearch": ""
-        },
-        {
-            "__type__": "DeckConfig",
-            "answerAction": 0,
-            "autoplay": true,
-            "buryInterdayLearning": false,
-            "crowdanki_uuid": "3538ab64-0810-11f0-85fc-8d496211e5e5",
-            "desiredRetention": 0.9,
-            "dyn": false,
-            "easyDaysPercentages": [
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0
-            ],
-            "fsrsParams5": [],
-            "fsrsWeights": [],
-            "ignoreRevlogsBeforeDate": "",
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Standard",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 1,
-                "perDay": 20
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "questionAction": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
-            },
-            "reviewOrder": 0,
-            "secondsToShowAnswer": 0.0,
-            "secondsToShowQuestion": 0.0,
-            "sm2Retention": 0.9,
-            "stopTimerOnAnswer": false,
-            "timer": 0,
-            "waitForAudio": false,
-            "weightSearch": ""
-        },
         {
             "__type__": "DeckConfig",
             "answerAction": 0,
@@ -989,7 +1145,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 20
+                "perDay": 200
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -1041,7 +1197,7 @@
                     "preventDeletion": false,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false,
+                    "sticky": true,
                     "tag": null
                 },
                 {

@@ -4,6 +4,271 @@
         {
             "__type__": "Deck",
             "children": [],
+            "crowdanki_uuid": "97297bbc-41ec-11f0-86e8-81751b0a85a3",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Capture d’écran 2025-02-19 à 16.32.00.png",
+                "Capture d’écran 2025-03-02 à 10.33.26.png",
+                "Capture d’écran 2025-03-02 à 10.34.45.png",
+                "Capture d’écran 2025-03-02 à 10.35.35.png",
+                "Capture d’écran 2025-03-02 à 10.35.56.png",
+                "Capture d’écran 2025-03-02 à 10.36.04.png",
+                "Capture d’écran 2025-03-02 à 10.37.01.png",
+                "Capture d’écran 2025-03-02 à 10.37.36.png",
+                "Capture d’écran 2025-03-02 à 10.38.21.png",
+                "Capture d’écran 2025-03-02 à 10.38.29.png",
+                "Capture d’écran 2025-03-02 à 10.38.38.png",
+                "Capture d’écran 2025-03-02 à 10.39.39.png",
+                "Capture d’écran 2025-03-02 à 10.40.03.png",
+                "Capture d’écran 2025-03-05 à 17.21.09.png",
+                "Capture d’écran 2025-03-05 à 17.25.14.png"
+            ],
+            "name": "01. Python Basics",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Typen von Container gibt es in Python?",
+                        "<img src=\"Capture d’écran 2025-02-19 à 16.32.00.png\" width=\"563\">",
+                        "W1V"
+                    ],
+                    "guid": "snrX^$6$&%",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie werden Operanden in Python evaluiert?",
+                        "von links nach rechts (in C++ war nicht definiert)",
+                        "C++ to Python Turtorial"
+                    ],
+                    "guid": "D(N%+UVR%m",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What does not form a nested scope in Python?",
+                        "loops and conditionals",
+                        "C++ to Python Turtorial"
+                    ],
+                    "guid": "J;nmoVAy%@",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How can \"empty\" brackets be implemented in Python?",
+                        "<pre><code>pass</code></pre>",
+                        "C++ to Python Turtorial"
+                    ],
+                    "guid": "fZoBpsXn>.",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How is copying and aliasing handled in Python?",
+                        "<ul><li>small/ primitive types are always copied</li><li>larger types are always aliased</li></ul>",
+                        "C++ to Python Turtorial"
+                    ],
+                    "guid": "j:0M-b#IFI",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the \"char\" type equivalent in Python?",
+                        "Python does not have a dedicated type for characters",
+                        "C++ to Python Turtorial"
+                    ],
+                    "guid": "PvD%78>)CD",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What division operaters exist in Python?",
+                        "<span style=\"color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);\">float division&nbsp;</span><code>/<br></code><span style=\"color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);\">integer division&nbsp;</span><code>//</code>",
+                        "C++ to Python Turtorial"
+                    ],
+                    "guid": "f}[[D8?_rn",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Why is function overloading not possible in Python?",
+                        "<span style=\"color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);\">Function overloading is not possible in Python, due to the lack of static types</span>",
+                        "C++ to Python Turtorial"
+                    ],
+                    "guid": "t/eGJ:TG28",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktioniert List Comprehension in Python?",
+                        "<img src=\"Capture d’écran 2025-03-02 à 10.33.26.png\" width=\"550\">",
+                        "W2V"
+                    ],
+                    "guid": "ib[r3Qc=N5",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Grundoperatoren für Python Kollektionen",
+                        "<img src=\"Capture d’écran 2025-03-02 à 10.34.45.png\" width=\"521\">",
+                        "W2V"
+                    ],
+                    "guid": "g1b2;E>f[S",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dict Comprehension&nbsp;",
+                        "<img src=\"Capture d’écran 2025-03-02 à 10.35.35.png\" width=\"406\"><br><img src=\"Capture d’écran 2025-03-02 à 10.35.56.png\" width=\"403\"><br><img src=\"Capture d’écran 2025-03-02 à 10.36.04.png\" width=\"401\">",
+                        "W2V"
+                    ],
+                    "guid": "h}LLO{M$D/",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Konsequenz davon, dass in Python \"alles\" ein Pointer ist?",
+                        "<img src=\"Capture d’écran 2025-03-02 à 10.37.01.png\" width=\"495\">",
+                        "W2V"
+                    ],
+                    "guid": "cZIjM]S~?(",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Unterschiede zwischen Python Listen und numpy Array's",
+                        "<img src=\"Capture d’écran 2025-03-02 à 10.37.36.png\" width=\"447\">",
+                        "W2V"
+                    ],
+                    "guid": "n:qJk11+@$",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie können numpy Arrays erstellt werden?",
+                        "<img src=\"Capture d’écran 2025-03-02 à 10.38.21.png\" width=\"403\"><br><img src=\"Capture d’écran 2025-03-02 à 10.38.29.png\" width=\"400\"><br><img src=\"Capture d’écran 2025-03-02 à 10.38.38.png\" width=\"403\">",
+                        "W2V"
+                    ],
+                    "guid": "D}tHTTLLWF",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "numpy Array slicing",
+                        "<img src=\"Capture d’écran 2025-03-02 à 10.39.39.png\">",
+                        "W2V"
+                    ],
+                    "guid": "Ckxh!oAj4W",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Grösse von numpy arrays ermitteln",
+                        "<img src=\"Capture d’écran 2025-03-02 à 10.40.03.png\">",
+                        "W2V"
+                    ],
+                    "guid": "PAl#{4:>8o",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What does&nbsp;<code>enumerate(a)</code>&nbsp;do?",
+                        "<img src=\"Capture d’écran 2025-03-05 à 17.21.09.png\" width=\"454\">",
+                        ""
+                    ],
+                    "guid": "DLSG?||T/g",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is an f-String and how does it work?",
+                        "<img src=\"Capture d’écran 2025-03-05 à 17.25.14.png\" width=\"652\">",
+                        ""
+                    ],
+                    "guid": "o?8EAFe>2)",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is pandas used for?",
+                        "",
+                        "W3V"
+                    ],
+                    "guid": "r,R2Mna9qt",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "inprog"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
             "crowdanki_uuid": "647416d4-0810-11f0-85fc-8d496211e5e5",
             "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
             "desc": "",
@@ -39,6 +304,789 @@
                         "W5V"
                     ],
                     "guid": "z>rG!iX~20",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "9729a4b6-41ec-11f0-86e8-81751b0a85a3",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Capture d’écran 2025-04-03 à 11.31.52.png",
+                "Capture d’écran 2025-04-03 à 11.33.28.png",
+                "Capture d’écran 2025-04-03 à 11.34.05.png",
+                "Capture d’écran 2025-04-03 à 11.35.40.png",
+                "Capture d’écran 2025-04-03 à 11.36.13.png",
+                "Capture d’écran 2025-04-03 à 11.36.57.png",
+                "Capture d’écran 2025-04-03 à 11.37.53.png",
+                "Capture d’écran 2025-04-03 à 11.39.38.png",
+                "Capture d’écran 2025-04-03 à 11.41.00.png",
+                "Capture d’écran 2025-04-09 à 16.29.00.png",
+                "Capture d’écran 2025-04-09 à 16.29.39.png",
+                "Capture d’écran 2025-04-09 à 16.29.56.png",
+                "Capture d’écran 2025-04-09 à 17.13.37.png",
+                "Capture d’écran 2025-04-09 à 21.20.09.png"
+            ],
+            "name": "07. Bäume",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein heap (Datenstruktur)?",
+                        "<img src=\"Capture d’écran 2025-04-03 à 11.31.52.png\" width=\"613\">",
+                        "W7V"
+                    ],
+                    "guid": "n0O)dT=Q}",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Balancierte vs. degenerierte Suchbäume",
+                        "<img src=\"Capture d’écran 2025-04-03 à 11.33.28.png\">",
+                        "W7V"
+                    ],
+                    "guid": "b%L!Hu^X!(",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann ein Baum traversiert werden?",
+                        "<img src=\"Capture d’écran 2025-04-03 à 11.34.05.png\" width=\"577\">",
+                        "W7V"
+                    ],
+                    "guid": "cH<QmQ-6T>",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein ein binärer Suchbaum?",
+                        "<img src=\"Capture d’écran 2025-04-03 à 11.35.40.png\" width=\"545\">",
+                        "W7V"
+                    ],
+                    "guid": "kjY,q=J:mg",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist ein binärer Baum?",
+                        "<img src=\"Capture d’écran 2025-04-03 à 11.36.13.png\" width=\"514\">",
+                        "W7V"
+                    ],
+                    "guid": "c}]v>mT?a",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie lautet die Nomenklatur für Bäume?",
+                        "<img src=\"Capture d’écran 2025-04-03 à 11.36.57.png\" width=\"626\">",
+                        "W7V"
+                    ],
+                    "guid": "m|m)4!iq/a",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind Bäume (Datenstruktur)?",
+                        "<img src=\"Capture d’écran 2025-04-03 à 11.37.53.png\" width=\"646\">",
+                        "W7V"
+                    ],
+                    "guid": "fenY-JhzxS",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "definition",
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie können Elemente in Heaps (Datenstruktur) eingefügt werden?",
+                        "<img src=\"Capture d’écran 2025-04-03 à 11.39.38.png\" width=\"626\">",
+                        "W7V"
+                    ],
+                    "guid": "G32b`vQSb-",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann das Maximum in einem Heap entfernt werden?",
+                        "<img src=\"Capture d’écran 2025-04-03 à 11.41.00.png\" width=\"516\"><br>\"umgekehrtes Versickern\"",
+                        "W7V"
+                    ],
+                    "guid": "t,qNB=_tE>",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is a full binary tree?",
+                        "<img src=\"Capture d’écran 2025-04-09 à 16.29.00.png\" width=\"441\">",
+                        "W8U"
+                    ],
+                    "guid": "q{:#/hl}H/",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is a complete binary tree?",
+                        "<img src=\"Capture d’écran 2025-04-09 à 16.29.39.png\" width=\"496\">",
+                        "W8U"
+                    ],
+                    "guid": "f9%$AKB5t/",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is a perfect binary tree?",
+                        "<img src=\"Capture d’écran 2025-04-09 à 16.29.56.png\" width=\"535\">",
+                        "W8U"
+                    ],
+                    "guid": "l.cg>5DEiA",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is a max heap?",
+                        "<img src=\"Capture d’écran 2025-04-09 à 17.13.37.png\" width=\"532\">",
+                        "W8U"
+                    ],
+                    "guid": "ELr8x~V]Wu",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is a min heap?",
+                        "<img src=\"Capture d’écran 2025-04-09 à 21.20.09.png\" width=\"570\">",
+                        "W8U"
+                    ],
+                    "guid": "rm(uVomJb,",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "9729b92e-41ec-11f0-86e8-81751b0a85a3",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Capture d’écran 2025-04-10 à 10.49.11.png",
+                "Capture d’écran 2025-04-10 à 11.14.27.png",
+                "Capture d’écran 2025-04-10 à 11.20.14.png",
+                "Capture d’écran 2025-04-16 à 16.28.49.png",
+                "Capture d’écran 2025-04-16 à 16.39.57.png",
+                "Capture d’écran 2025-04-16 à 16.44.08.png",
+                "Capture d’écran 2025-04-16 à 17.34.21.png"
+            ],
+            "name": "08. Dynamische Programmierung",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist Memoisierung?",
+                        "<img src=\"Capture d’écran 2025-04-10 à 10.49.11.png\" width=\"602\">",
+                        "W8V"
+                    ],
+                    "guid": "i)X[Jj:<}p",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie unterscheidet sich der Top-Down vom Bottom-Up approach?",
+                        "<img src=\"Capture d’écran 2025-04-10 à 11.14.27.png\" width=\"462\">",
+                        "W8V"
+                    ],
+                    "guid": "ALH$`[,yy7",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist die Rekurrenz?",
+                        "die Wiederholung von etwas",
+                        "W8V"
+                    ],
+                    "guid": "CxD_W2/o*z",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ablauf der Dynamischen Programierung?",
+                        "<img src=\"Capture d’écran 2025-04-10 à 11.20.14.png\" width=\"675\">",
+                        "W8V"
+                    ],
+                    "guid": "LjR4rD#bu%",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA",
+                        "procedure"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the difference between memoization and dynamic programming?",
+                        "<img src=\"Capture d’écran 2025-04-16 à 16.28.49.png\" width=\"606\">",
+                        "W9U"
+                    ],
+                    "guid": "e:J/Z}U-SQ",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Why is DP useful?",
+                        "<img src=\"Capture d’écran 2025-04-16 à 16.39.57.png\">",
+                        "W9U"
+                    ],
+                    "guid": "f9!<>3Lu{5",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the DP approach?",
+                        "<img src=\"Capture d’écran 2025-04-16 à 16.44.08.png\" width=\"495\"><br><img src=\"Capture d’écran 2025-04-16 à 17.34.21.png\" width=\"397\">",
+                        "W9U"
+                    ],
+                    "guid": "F*$igoeYIR",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA",
+                        "procedure"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "9729c824-41ec-11f0-86e8-81751b0a85a3",
+            "deck_config_uuid": "3538b942-0810-11f0-85fc-8d496211e5e5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "Capture d’écran 2025-05-08 à 10.26.15.png",
+                "Capture d’écran 2025-05-08 à 10.28.43.png",
+                "Capture d’écran 2025-05-08 à 10.43.11.png",
+                "Capture d’écran 2025-05-08 à 11.27.33.png",
+                "Capture d’écran 2025-05-08 à 11.36.41.png",
+                "Capture d’écran 2025-05-08 à 11.40.21.png",
+                "Capture d’écran 2025-05-08 à 11.53.48.png",
+                "Capture d’écran 2025-05-14 à 17.29.02.png",
+                "Capture d’écran 2025-05-14 à 17.30.10.png",
+                "Capture d’écran 2025-05-14 à 17.31.52.png",
+                "Capture d’écran 2025-05-14 à 17.32.56.png",
+                "Capture d’écran 2025-05-14 à 17.33.27.png",
+                "Capture d’écran 2025-05-14 à 17.33.54.png",
+                "Capture d’écran 2025-05-14 à 17.34.39.png",
+                "Capture d’écran 2025-05-15 à 10.24.24.png",
+                "Capture d’écran 2025-05-15 à 10.39.17.png",
+                "Capture d’écran 2025-05-15 à 10.42.50.png",
+                "Capture d’écran 2025-05-15 à 10.48.35.png",
+                "Capture d’écran 2025-05-15 à 10.49.51.png",
+                "Capture d’écran 2025-05-15 à 10.51.34.png",
+                "Capture d’écran 2025-05-15 à 11.13.40.png",
+                "Capture d’écran 2025-05-15 à 11.21.32.png",
+                "Capture d’écran 2025-05-15 à 11.26.56.png",
+                "Capture d’écran 2025-05-15 à 11.27.49.png",
+                "Capture d’écran 2025-05-15 à 11.30.56.png",
+                "Capture d’écran 2025-05-15 à 11.31.16.png",
+                "Capture d’écran 2025-05-22 à 10.35.46.png",
+                "Capture d’écran 2025-05-22 à 10.37.26.png",
+                "Capture d’écran 2025-05-22 à 10.39.05.png",
+                "Capture d’écran 2025-05-22 à 10.56.35.png",
+                "Capture d’écran 2025-05-22 à 11.16.42.png",
+                "Capture d’écran 2025-05-22 à 11.29.27.png",
+                "Capture d’écran 2025-05-22 à 11.39.43.png",
+                "Capture d’écran 2025-05-22 à 11.43.10.png",
+                "Capture d’écran 2025-05-22 à 11.43.29.png"
+            ],
+            "name": "09. Maschinelles Lernen",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is deep learning?",
+                        "<ul><li><span style=\"color: rgb(34, 34, 34); background-color: rgb(255, 255, 255);\">Does also learn what properties has to pick out</span></li><li>\"Deep learning allows computational models that are composed of multiple processing layers to learn representations of data with multiple levels of abstraction.\"</li></ul>",
+                        "W11V"
+                    ],
+                    "guid": "mbl`F8?~Z$",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the difference between AI, ML and deep learning?",
+                        "<img src=\"Capture d’écran 2025-05-08 à 10.26.15.png\" width=\"630\">",
+                        "W11V"
+                    ],
+                    "guid": "j_[g@n4x`p",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How can tasks be automated using machine learning?",
+                        "<img src=\"Capture d’écran 2025-05-08 à 10.28.43.png\" width=\"589\">",
+                        "W11V"
+                    ],
+                    "guid": "h[]9%7(%pJ",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioC"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Grundaufbau für das Maschinielle lernen",
+                        "<img src=\"Capture d’écran 2025-05-08 à 10.43.11.png\" width=\"486\">",
+                        "W11V"
+                    ],
+                    "guid": "Bn|CGUDQKc",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann die Qualität eines Models beurteilt werden?",
+                        "<img src=\"Capture d’écran 2025-05-08 à 11.27.33.png\" width=\"496\">",
+                        "W11V"
+                    ],
+                    "guid": "NI|{uWnJfh",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was muss beim erstellen des Datensatzes beim maschiniellen Lernen mit Suchbäumen gemacht werden?",
+                        "<img src=\"Capture d’écran 2025-05-08 à 11.36.41.png\" width=\"485\">",
+                        "W11V"
+                    ],
+                    "guid": "w6f6*0}>>K",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist der Hypotesenraum? Was ist in ihm enthalten?",
+                        "<img src=\"Capture d’écran 2025-05-08 à 11.40.21.png\" width=\"477\">",
+                        "W11V"
+                    ],
+                    "guid": "A1D%^*{YOb",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Welche Typen von machine learning gibt es?",
+                        "<img src=\"Capture d’écran 2025-05-08 à 11.53.48.png\">",
+                        "W11V"
+                    ],
+                    "guid": "KG(}%L5r|N",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the difference between a feature and a class?",
+                        "<img src=\"Capture d’écran 2025-05-14 à 17.29.02.png\" width=\"683\">",
+                        "W12U"
+                    ],
+                    "guid": "z3L@f;WLS-",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How is a confusion matrix structured?",
+                        "<img src=\"Capture d’écran 2025-05-14 à 17.30.10.png\" width=\"671\"><br>Useful if trained the model on unbalanced data.",
+                        "W12U"
+                    ],
+                    "guid": "HYUL;_qNz[",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How is the balanced accuracy calculated?",
+                        "<img src=\"Capture d’écran 2025-05-14 à 17.31.52.png\" width=\"766\">",
+                        "W12U"
+                    ],
+                    "guid": "H%9R<reygc",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How does the R2-Score work?",
+                        "<img src=\"Capture d’écran 2025-05-14 à 17.32.56.png\" width=\"439\">",
+                        "W12U"
+                    ],
+                    "guid": "DQhz,Z{UfC",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How does the Gini Index work?",
+                        "<img src=\"Capture d’écran 2025-05-14 à 17.33.27.png\" width=\"550\"><br><br><img src=\"Capture d’écran 2025-05-14 à 17.33.54.png\" width=\"558\">",
+                        "W12U"
+                    ],
+                    "guid": "vK20iB|>(E",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What are over- and underfitting?",
+                        "<img src=\"Capture d’écran 2025-05-14 à 17.34.39.png\" width=\"658\"><br><img src=\"Capture d’écran 2025-05-15 à 10.39.17.png\" width=\"251\"><br><img src=\"Capture d’écran 2025-05-15 à 10.42.50.png\" width=\"271\">",
+                        "W12U"
+                    ],
+                    "guid": "H!Hv5a&nxx",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist one-hot encoding?",
+                        "<img src=\"Capture d’écran 2025-05-15 à 10.24.24.png\" width=\"459\">",
+                        "W12V"
+                    ],
+                    "guid": "c3|0J)alL]",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann Overfitting erkannt werden?&nbsp;",
+                        "Durch den Vergleich der Test- und Trainingsdaten",
+                        "W12V"
+                    ],
+                    "guid": "Ocan8,aI|>",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How does grid search via K-fold cross-validation?",
+                        "Grid search cross-validation:<br><img src=\"Capture d’écran 2025-05-15 à 10.51.34.png\" width=\"413\"><br><br>K-fold cross-validation:<br><img src=\"Capture d’écran 2025-05-15 à 10.48.35.png\" width=\"399\"><br><br>Selection:<br><img src=\"Capture d’écran 2025-05-15 à 10.49.51.png\" width=\"406\"><br>The standard devation can also be calculated for each, usually it is very high for overfitting",
+                        "W12V"
+                    ],
+                    "guid": "q9`x~(z:%}",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is a hyperparameter?",
+                        "<span style=\"color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);\">In machine learning, a hyperparameter is a parameter that can be set in order to define any configurable part of a model's learning process.</span>",
+                        "W12V"
+                    ],
+                    "guid": "PB4?<ZX^XV",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktioniert der Workflow für die Modellevaluation?",
+                        "<img src=\"Capture d’écran 2025-05-15 à 11.13.40.png\" width=\"345\"><br>Just for fun, let's call the small thing the hyperloop.",
+                        "W12V"
+                    ],
+                    "guid": "AW[_O}vw_*",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktionieren Regressionsbäume?",
+                        "<img src=\"Capture d’écran 2025-05-15 à 11.21.32.png\" width=\"294\">",
+                        "W12V"
+                    ],
+                    "guid": "FuDgpFs!KQ",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktionieren Neuronale Netzwerke?",
+                        "<img src=\"Capture d’écran 2025-05-15 à 11.27.49.png\" width=\"493\"><br><img src=\"Capture d’écran 2025-05-15 à 11.26.56.png\" width=\"498\">",
+                        "W12V"
+                    ],
+                    "guid": "lxRJWS6Mi.",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktionieren multilayer neurale Netzwerke?",
+                        "<img src=\"Capture d’écran 2025-05-15 à 11.30.56.png\" width=\"511\"><br><img src=\"Capture d’écran 2025-05-15 à 11.31.16.png\" width=\"521\">",
+                        "W12V"
+                    ],
+                    "guid": "u&E94^E%`#",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist Pooling?",
+                        "[inprog]",
+                        "W12V"
+                    ],
+                    "guid": "x1y7gl[#jn",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "inprog",
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktioniert Convolusion?",
+                        "[inprog]",
+                        "W12V"
+                    ],
+                    "guid": "O%Ww}B(muM",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "inprog",
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktioniert der Trainingsalgorithmus beim Clustering",
+                        "Anzahl Cluster ist ein Hyperparameter<br><br><img src=\"Capture d’écran 2025-05-22 à 10.35.46.png\" width=\"540\"><br><br><img src=\"Capture d’écran 2025-05-22 à 10.39.05.png\" width=\"541\">",
+                        "W13V"
+                    ],
+                    "guid": "rLw2b40ld#",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was funktioniert das Clustering-Konzept?",
+                        "<img src=\"Capture d’écran 2025-05-22 à 10.37.26.png\" width=\"487\">",
+                        "W13V"
+                    ],
+                    "guid": "GQhshIN^U_",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann die Anzahl Cluster beim Clustering optimiert werden?",
+                        "<img src=\"Capture d’écran 2025-05-22 à 10.56.35.png\" width=\"533\">",
+                        "W13V"
+                    ],
+                    "guid": "e?!r;{{uXJ",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was sind mögliche Kriterien, um den K-Means Hyperparameter von Cluster zu bestimmen?",
+                        "<img src=\"Capture d’écran 2025-05-22 à 11.16.42.png\" width=\"616\">",
+                        "W13V"
+                    ],
+                    "guid": "qIskDgy~Z@",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioB"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie funktioniert principle component analysis (PCA)?",
+                        "<img src=\"Capture d’écran 2025-05-22 à 11.29.27.png\" width=\"565\"><br><br>Für mehrere Dimensionen repetieren den Prozess mit den orthogonalen Räumen, die übrig bleiben<br><br><img src=\"Capture d’écran 2025-05-22 à 11.39.43.png\" width=\"585\">",
+                        "W13V"
+                    ],
+                    "guid": "be{o|)@<k8",
+                    "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
+                    "tags": [
+                        "prioA"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie kann das Crowding problem von PCA teilweise beheben?",
+                        "<img src=\"Capture d’écran 2025-05-22 à 11.43.10.png\" width=\"527\"><br><br>\\(\\rightarrow\\)&nbsp;mit Neighborhood Embedding<br><br><img src=\"Capture d’écran 2025-05-22 à 11.43.29.png\" width=\"516\"><br>",
+                        "W13V"
+                    ],
+                    "guid": "BqvgJ^l:qY",
                     "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
                     "tags": [
                         "prioB"
@@ -97,7 +1145,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 20
+                "perDay": 200
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -127,23 +1175,7 @@
     "dyn": 0,
     "extendNew": 0,
     "extendRev": 0,
-    "media_files": [
-        "Capture d’écran 2025-02-19 à 16.32.00.png",
-        "Capture d’écran 2025-03-02 à 10.33.26.png",
-        "Capture d’écran 2025-03-02 à 10.34.45.png",
-        "Capture d’écran 2025-03-02 à 10.35.35.png",
-        "Capture d’écran 2025-03-02 à 10.35.56.png",
-        "Capture d’écran 2025-03-02 à 10.36.04.png",
-        "Capture d’écran 2025-03-02 à 10.37.01.png",
-        "Capture d’écran 2025-03-02 à 10.37.36.png",
-        "Capture d’écran 2025-03-02 à 10.38.21.png",
-        "Capture d’écran 2025-03-02 à 10.38.29.png",
-        "Capture d’écran 2025-03-02 à 10.38.38.png",
-        "Capture d’écran 2025-03-02 à 10.39.39.png",
-        "Capture d’écran 2025-03-02 à 10.40.03.png",
-        "Capture d’écran 2025-03-05 à 17.21.09.png",
-        "Capture d’écran 2025-03-05 à 17.25.14.png"
-    ],
+    "media_files": [],
     "name": "ETH MAVT Semester II::Informatik II",
     "newLimit": null,
     "newLimitToday": null,
@@ -165,7 +1197,7 @@
                     "preventDeletion": false,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false,
+                    "sticky": true,
                     "tag": null
                 },
                 {
@@ -231,239 +1263,7 @@
             "type": 0
         }
     ],
-    "notes": [
-        {
-            "__type__": "Note",
-            "fields": [
-                "Welche Typen von Container gibt es in Python?",
-                "<img src=\"Capture d’écran 2025-02-19 à 16.32.00.png\" width=\"563\">",
-                "W1V"
-            ],
-            "guid": "snrX^$6$&%",
-            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Wie werden Operanden in Python evaluiert?",
-                "von links nach rechts (in C++ war nicht definiert)",
-                "C++ to Python Turtorial"
-            ],
-            "guid": "D(N%+UVR%m",
-            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What does not form a nested scope in Python?",
-                "loops and conditionals",
-                "C++ to Python Turtorial"
-            ],
-            "guid": "J;nmoVAy%@",
-            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "How can \"empty\" brackets be implemented in Python?",
-                "<pre><code>pass</code></pre>",
-                "C++ to Python Turtorial"
-            ],
-            "guid": "fZoBpsXn>.",
-            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "How is copying and aliasing handled in Python?",
-                "<ul><li>small/ primitive types are always copied</li><li>larger types are always aliased</li></ul>",
-                "C++ to Python Turtorial"
-            ],
-            "guid": "j:0M-b#IFI",
-            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is the \"char\" type equivalent in Python?",
-                "Python does not have a dedicated type for characters",
-                "C++ to Python Turtorial"
-            ],
-            "guid": "PvD%78>)CD",
-            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What division operaters exist in Python?",
-                "<span style=\"color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);\">float division&nbsp;</span><code>/<br></code><span style=\"color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);\">integer division&nbsp;</span><code>//</code>",
-                "C++ to Python Turtorial"
-            ],
-            "guid": "f}[[D8?_rn",
-            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
-            "tags": [
-                "prioB"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Why is function overloading not possible in Python?",
-                "<span style=\"color: rgb(68, 68, 68); background-color: rgb(255, 255, 255);\">Function overloading is not possible in Python, due to the lack of static types</span>",
-                "C++ to Python Turtorial"
-            ],
-            "guid": "t/eGJ:TG28",
-            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
-            "tags": [
-                "prioC"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Wie funktioniert List Comprehension in Python?",
-                "<img src=\"Capture d’écran 2025-03-02 à 10.33.26.png\" width=\"550\">",
-                "W2V"
-            ],
-            "guid": "ib[r3Qc=N5",
-            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
-            "tags": [
-                "prioA"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Grundoperatoren für Python Kollektionen",
-                "<img src=\"Capture d’écran 2025-03-02 à 10.34.45.png\" width=\"521\">",
-                "W2V"
-            ],
-            "guid": "g1b2;E>f[S",
-            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
-            "tags": [
-                "prioB"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Dict Comprehension&nbsp;",
-                "<img src=\"Capture d’écran 2025-03-02 à 10.35.35.png\" width=\"406\"><br><img src=\"Capture d’écran 2025-03-02 à 10.35.56.png\" width=\"403\"><br><img src=\"Capture d’écran 2025-03-02 à 10.36.04.png\" width=\"401\">",
-                "W2V"
-            ],
-            "guid": "h}LLO{M$D/",
-            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
-            "tags": [
-                "prioB"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Was ist die Konsequenz davon, dass in Python \"alles\" ein Pointer ist?",
-                "<img src=\"Capture d’écran 2025-03-02 à 10.37.01.png\" width=\"495\">",
-                "W2V"
-            ],
-            "guid": "cZIjM]S~?(",
-            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
-            "tags": [
-                "prioB"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Unterschiede zwischen Python Listen und numpy Array's",
-                "<img src=\"Capture d’écran 2025-03-02 à 10.37.36.png\" width=\"447\">",
-                "W2V"
-            ],
-            "guid": "n:qJk11+@$",
-            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
-            "tags": [
-                "prioB"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Wie können numpy Arrays erstellt werden?",
-                "<img src=\"Capture d’écran 2025-03-02 à 10.38.21.png\" width=\"403\"><br><img src=\"Capture d’écran 2025-03-02 à 10.38.29.png\" width=\"400\"><br><img src=\"Capture d’écran 2025-03-02 à 10.38.38.png\" width=\"403\">",
-                "W2V"
-            ],
-            "guid": "D}tHTTLLWF",
-            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
-            "tags": [
-                "prioB"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "numpy Array slicing",
-                "<img src=\"Capture d’écran 2025-03-02 à 10.39.39.png\">",
-                "W2V"
-            ],
-            "guid": "Ckxh!oAj4W",
-            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
-            "tags": [
-                "prioB"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Grösse von numpy arrays ermitteln",
-                "<img src=\"Capture d’écran 2025-03-02 à 10.40.03.png\">",
-                "W2V"
-            ],
-            "guid": "PAl#{4:>8o",
-            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
-            "tags": [
-                "prioB"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What does&nbsp;<code>enumerate(a)</code>&nbsp;do?",
-                "<img src=\"Capture d’écran 2025-03-05 à 17.21.09.png\" width=\"454\">",
-                ""
-            ],
-            "guid": "DLSG?||T/g",
-            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is an f-String and how does it work?",
-                "<img src=\"Capture d’écran 2025-03-05 à 17.25.14.png\" width=\"652\">",
-                ""
-            ],
-            "guid": "o?8EAFe>2)",
-            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "What is pandas used for?",
-                "",
-                "W3V"
-            ],
-            "guid": "r,R2Mna9qt",
-            "note_model_uuid": "3538908e-0810-11f0-85fc-8d496211e5e5",
-            "tags": [
-                "inprog"
-            ]
-        }
-    ],
+    "notes": [],
     "reviewLimit": null,
     "reviewLimitToday": null
 }
